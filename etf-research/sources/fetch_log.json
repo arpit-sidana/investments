@@ -1,0 +1,324 @@
+[
+  {
+    "key": "ixn_page",
+    "url": "https://www.ishares.com/us/products/239750/ishares-global-tech-etf",
+    "file": "ixn_page.html",
+    "bytes": 1783720,
+    "retrieved_utc": "2026-10-19T22:26:00.790622+00:00"
+  },
+  {
+    "key": "ixn_holdings",
+    "url": "https://www.ishares.com/us/products/239750/ishares-global-tech-etf/latest-holdings.csv",
+    "file": "ixn_holdings.csv",
+    "bytes": 24872,
+    "retrieved_utc": "2026-10-19T22:26:00.614979+00:00"
+  },
+  {
+    "key": "qqq_page",
+    "url": "https://www.invesco.com/us/en/financial-products/etfs/invesco-qqq-trust-series-1.html",
+    "file": "qqq_page.html",
+    "bytes": 622117,
+    "retrieved_utc": "2026-10-19T22:26:01.140368+00:00"
+  },
+  {
+    "key": "qqq_holdings",
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&ticker=QQQ",
+    "file": "qqq_holdings.csv",
+    "bytes": 425198,
+    "retrieved_utc": "2026-10-19T22:26:00.908556+00:00"
+  },
+  {
+    "key": "voo_page",
+    "url": "https://advisors.vanguard.com/investments/products/voo/vanguard-sp-500-etf",
+    "file": "voo_page.html",
+    "bytes": 161490,
+    "retrieved_utc": "2026-10-19T22:26:01.621493+00:00"
+  },
+  {
+    "key": "voo_factsheet",
+    "url": "https://fund-docs.vanguard.com/F0968.pdf",
+    "file": "voo_factsheet.pdf",
+    "bytes": 479143,
+    "retrieved_utc": "2026-10-19T22:26:01.147408+00:00"
+  },
+  {
+    "key": "ixn_factsheet",
+    "url": "https://www.ishares.com/us/literature/fact-sheet/ixn-ishares-global-tech-etf-fund-fact-sheet-en-us.pdf",
+    "file": "ixn_factsheet.pdf",
+    "bytes": 218526,
+    "retrieved_utc": "2026-10-19T22:26:00.881466+00:00"
+  },
+  {
+    "key": "qqq_factsheet",
+    "url": "https://www.invesco.com/us-rest/contentdetail?contentId=3a48e01e98630410VgnVCM10000046f1bf0aRCRD",
+    "file": "qqq_factsheet.html",
+    "bytes": 258969,
+    "retrieved_utc": "2026-10-19T22:26:01.630473+00:00"
+  },
+  {
+    "key": "ndx_factsheet",
+    "url": "https://indexes.nasdaqomx.com/docs/FS_NDX.pdf",
+    "file": "ndx_factsheet.pdf",
+    "bytes": 240299,
+    "retrieved_utc": "2026-10-19T22:26:01.137328+00:00"
+  },
+  {
+    "key": "price_IXN",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/IXN?period1=473385600&period2=1792540800&interval=1d&events=div%2Csplits",
+    "file": "price_IXN.json",
+    "bytes": 678204,
+    "retrieved_utc": "2026-10-19T22:26:23.848162+00:00"
+  },
+  {
+    "key": "price_QQQ",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/QQQ?period1=473385600&period2=1792540800&interval=1d&events=div%2Csplits",
+    "file": "price_QQQ.json",
+    "bytes": 744733,
+    "retrieved_utc": "2026-10-19T22:26:23.862335+00:00"
+  },
+  {
+    "key": "price_VOO",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/VOO?period1=473385600&period2=1792540800&interval=1d&events=div%2Csplits",
+    "file": "price_VOO.json",
+    "bytes": 442405,
+    "retrieved_utc": "2026-10-19T22:26:23.815318+00:00"
+  },
+  {
+    "key": "price_SPY",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/SPY?period1=473385600&period2=1792540800&interval=1d&events=div%2Csplits",
+    "file": "price_SPY.json",
+    "bytes": 858422,
+    "retrieved_utc": "2026-10-19T22:26:23.894016+00:00"
+  },
+  {
+    "key": "price_FSPTX",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/FSPTX?period1=473385600&period2=1792540800&interval=1d&events=div%2Csplits",
+    "file": "price_FSPTX.json",
+    "bytes": 1100963,
+    "retrieved_utc": "2026-10-19T22:26:23.890192+00:00"
+  },
+  {
+    "key": "price_VFINX",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/VFINX?period1=473385600&period2=1792540800&interval=1d&events=div%2Csplits",
+    "file": "price_VFINX.json",
+    "bytes": 1089260,
+    "retrieved_utc": "2026-10-19T22:26:23.897708+00:00"
+  },
+  {
+    "key": "price_TSM",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/TSM?period1=473385600&period2=1792540800&interval=1d&events=div%2Csplits",
+    "file": "price_TSM.json",
+    "bytes": 800191,
+    "retrieved_utc": "2026-10-19T22:26:24.160079+00:00"
+  },
+  {
+    "key": "price_ASML",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/ASML?period1=473385600&period2=1792540800&interval=1d&events=div%2Csplits",
+    "file": "price_ASML.json",
+    "bytes": 860808,
+    "retrieved_utc": "2026-10-19T22:26:24.039086+00:00"
+  },
+  {
+    "key": "price_2330_TW",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/2330.TW?period1=473385600&period2=1792540800&interval=1d&events=div%2Csplits",
+    "file": "price_2330_TW.json",
+    "bytes": 571093,
+    "retrieved_utc": "2026-10-19T22:26:24.048909+00:00"
+  },
+  {
+    "key": "price_ASML_AS",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/ASML.AS?period1=473385600&period2=1792540800&interval=1d&events=div%2Csplits",
+    "file": "price_ASML_AS.json",
+    "bytes": 767563,
+    "retrieved_utc": "2026-10-19T22:26:24.179311+00:00"
+  },
+  {
+    "key": "price_NDX",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5ENDX?period1=473385600&period2=1792540800&interval=1d&events=div%2Csplits",
+    "file": "price_NDX.json",
+    "bytes": 1099720,
+    "retrieved_utc": "2026-10-19T22:26:24.164617+00:00"
+  },
+  {
+    "key": "price_XNDX",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EXNDX?period1=473385600&period2=1792540800&interval=1d&events=div%2Csplits",
+    "file": "price_XNDX.json",
+    "bytes": 1261,
+    "retrieved_utc": "2026-10-19T22:26:24.000997+00:00"
+  },
+  {
+    "key": "price_SP500TR",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5ESP500TR?period1=473385600&period2=1792540800&interval=1d&events=div%2Csplits",
+    "file": "price_SP500TR.json",
+    "bytes": 949347,
+    "retrieved_utc": "2026-10-19T22:26:24.197902+00:00"
+  },
+  {
+    "key": "price_GSPC",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?period1=473385600&period2=1792540800&interval=1d&events=div%2Csplits",
+    "file": "price_GSPC.json",
+    "bytes": 1136732,
+    "retrieved_utc": "2026-10-19T22:26:24.319269+00:00"
+  },
+  {
+    "key": "price_IRX",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EIRX?period1=473385600&period2=1792540800&interval=1d&events=div%2Csplits",
+    "file": "price_IRX.json",
+    "bytes": 1094886,
+    "retrieved_utc": "2026-10-19T22:26:24.306295+00:00"
+  },
+  {
+    "key": "qqq_api_holdings",
+    "url": "https://dng-api.invesco.com/cache/v1/accounts/en_US/shareclasses/46090E103/holdings/fund?idType=cusip&productType=ETF",
+    "file": "qqq_api_holdings.json",
+    "bytes": 37671,
+    "retrieved_utc": "2026-10-19T22:27:19.564880+00:00"
+  },
+  {
+    "key": "qqq_api_stats",
+    "url": "https://dng-api.invesco.com/cache/v1/accounts/en_US/shareclasses/46090E103?expand=nav&idType=cusip&variationType=fundCharacteristics&productType=ETF",
+    "file": "qqq_api_stats.json",
+    "bytes": 723,
+    "retrieved_utc": "2026-10-19T22:27:19.518525+00:00"
+  },
+  {
+    "key": "qqq_api_details",
+    "url": "https://dng-api.invesco.com/cache/v1/accounts/en_US/shareclasses/46090E103?expand=nav&idType=cusip&variationType=fundDetails&productType=ETF",
+    "file": "qqq_api_details.json",
+    "bytes": 291,
+    "retrieved_utc": "2026-10-19T22:27:19.549219+00:00"
+  },
+  {
+    "key": "ixn_history",
+    "url": "https://www.ishares.com/us/products/239750/ishares-global-tech-etf/1522725744755.ajax?fileType=csv&fileName=IXN_holdings&dataType=fund&asOfDate=20100129",
+    "file": "ixn_history.html",
+    "bytes": 1511450,
+    "retrieved_utc": "2026-10-19T22:27:20.082105+00:00"
+  },
+  {
+    "key": "ixn_download",
+    "url": "https://www.blackrock.com/varnish-api/blk-one01-product-data/product-data/api/v1/get-fund-document?appType=PRODUCT_PAGE&appSubType=ISHARES&targetSite=us-ishares&locale=en_US&portfolioId=239750&component=fundDownload&userType=individual",
+    "file": "ixn_download.html",
+    "bytes": 3003856,
+    "retrieved_utc": "2026-10-19T22:27:21.159890+00:00"
+  },
+  {
+    "key": "voo_sa",
+    "url": "https://stockanalysis.com/etf/voo/holdings/",
+    "error": "403 Client Error: Forbidden for url: https://stockanalysis.com/etf/voo/holdings/"
+  },
+  {
+    "key": "qqq_sa",
+    "url": "https://stockanalysis.com/etf/qqq/holdings/",
+    "error": "403 Client Error: Forbidden for url: https://stockanalysis.com/etf/qqq/holdings/"
+  },
+  {
+    "key": "voo_vg_holdings",
+    "url": "https://investor.vanguard.com/investment-products/etfs/profile/voo#portfolio-composition",
+    "file": "voo_vg_holdings.html",
+    "bytes": 263238,
+    "retrieved_utc": "2026-10-19T22:27:20.092583+00:00"
+  },
+  {
+    "key": "qqq_api_sector",
+    "url": "https://dng-api.invesco.com/cache/v1/accounts/en_US/shareclasses/46090E103/weightedHoldings/fund?idType=cusip&breakdown=sector&productType=ETF",
+    "file": "qqq_api_sector.json",
+    "bytes": 511,
+    "retrieved_utc": "2026-10-19T22:28:38.910869+00:00"
+  },
+  {
+    "key": "qqq_api_performance",
+    "url": "https://dng-api.invesco.com/cache/v1/accounts/en_US/shareclasses/46090E103/performance/standard?idType=cusip&performanceSubType=annualized&productType=ETF&performancePeriod=monthEnd",
+    "error": "400 Client Error: Bad Request for url: https://dng-api.invesco.com/cache/v1/accounts/en_US/shareclasses/46090E103/performance/standard?idType=cusip&performanceSubType=annualized&productType=ETF&performancePeriod=monthEnd"
+  },
+  {
+    "key": "voo_component",
+    "url": "https://funds-web-components.cdn.web.vanguard.com/portfolio-composition.js",
+    "file": "voo_component.html",
+    "bytes": 192467,
+    "retrieved_utc": "2026-10-19T22:28:39.108448+00:00"
+  },
+  {
+    "key": "qqq_sa2",
+    "url": "https://www.slickcharts.com/nasdaq100",
+    "error": "403 Client Error: Forbidden for url: https://www.slickcharts.com/nasdaq100"
+  },
+  {
+    "key": "voo_spdr",
+    "url": "https://www.ssga.com/us/en/individual/etfs/library-content/products/fund-data/etfs/us/holdings-daily-us-en-spy.xlsx",
+    "file": "voo_spdr.html",
+    "bytes": 54447,
+    "retrieved_utc": "2026-10-19T22:28:39.002298+00:00"
+  },
+  {
+    "key": "voo_api",
+    "url": "https://api.vanguard.com/rs/gre/gra/1.7.0/datasets/VOO-AdditionalFundData.json",
+    "error": "HTTPConnectionPool(host='error.vanguard.com', port=80): Max retries exceeded with url: /telecom-bounce.html?Errcode=3004 (Caused by NameResolutionError(\"<urllib3.connection.HTTPConnection object at 0x109f7bcd0>: Failed to resolve 'error.vanguard.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+  },
+  {
+    "key": "voo_api2",
+    "url": "https://investor.vanguard.com/investment-products/etfs/profile/api/VOO-AdditionalFundData",
+    "file": "voo_api2.html",
+    "bytes": 56325,
+    "retrieved_utc": "2026-10-19T22:29:14.766506+00:00"
+  },
+  {
+    "key": "voo_common",
+    "url": "https://funds-web-components.cdn.web.vanguard.com/common-DJ-R-yUj.js",
+    "file": "voo_common.html",
+    "bytes": 359402,
+    "retrieved_utc": "2026-10-19T22:29:24.763649+00:00"
+  },
+  {
+    "key": "voo_actual_holdings",
+    "url": "https://investor.vanguard.com/irr/funds/profile/VOO-AdditionalFundData",
+    "file": "voo_actual_holdings.json",
+    "bytes": 417754,
+    "retrieved_utc": "2026-10-19T22:29:45.518703+00:00"
+  },
+  {
+    "key": "price_005930_KS",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/005930.KS?period1=473385600&period2=1792540800&interval=1d&events=div%2Csplits",
+    "file": "price_005930_KS.json",
+    "bytes": 445356,
+    "retrieved_utc": "2026-10-19T22:32:29.326582+00:00"
+  },
+  {
+    "key": "price_005935_KS",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/005935.KS?period1=473385600&period2=1792540800&interval=1d&events=div%2Csplits",
+    "file": "price_005935_KS.json",
+    "bytes": 342532,
+    "retrieved_utc": "2026-10-19T22:32:29.348266+00:00"
+  },
+  {
+    "key": "price_000660_KS",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/000660.KS?period1=473385600&period2=1792540800&interval=1d&events=div%2Csplits",
+    "file": "price_000660_KS.json",
+    "bytes": 445725,
+    "retrieved_utc": "2026-10-19T22:32:29.326466+00:00"
+  },
+  {
+    "key": "price_KRW=X",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/KRW%3DX?period1=473385600&period2=1792540800&interval=1d&events=div%2Csplits",
+    "file": "price_KRW=X.json",
+    "bytes": 579720,
+    "retrieved_utc": "2026-10-19T22:32:29.303853+00:00"
+  },
+  {
+    "key": "krw_fred_csv",
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DEXKOUS&cosd=1990-01-01&coed=2026-10-19",
+    "error": "('Connection aborted.', TimeoutError(60, 'Operation timed out'))"
+  },
+  {
+    "key": "krw_fred_text",
+    "url": "https://fred.stlouisfed.org/data/DEXKOUS.txt",
+    "error": "('Connection aborted.', TimeoutError(60, 'Operation timed out'))"
+  },
+  {
+    "key": "krw_stooq",
+    "url": "https://stooq.com/q/d/l/?s=usdkrw&i=d&d1=20000101&d2=20261019",
+    "file": "krw_stooq.html",
+    "bytes": 796,
+    "retrieved_utc": "2026-10-19T22:39:08.352538+00:00"
+  }
+]

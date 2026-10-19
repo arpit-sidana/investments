@@ -1,0 +1,106 @@
+{
+  "1990": {
+    "correlations": {
+      "IXN / prelaunch FSPTX": {
+        "IXN / prelaunch FSPTX": 1.0,
+        "QQQ / prelaunch NDX price": 0.9288714181340165,
+        "VOO / prelaunch S&P TR": 0.8018212859189534
+      },
+      "QQQ / prelaunch NDX price": {
+        "IXN / prelaunch FSPTX": 0.9288714181340165,
+        "QQQ / prelaunch NDX price": 1.0,
+        "VOO / prelaunch S&P TR": 0.8338144759545078
+      },
+      "VOO / prelaunch S&P TR": {
+        "IXN / prelaunch FSPTX": 0.8018212859189534,
+        "QQQ / prelaunch NDX price": 0.8338144759545078,
+        "VOO / prelaunch S&P TR": 1.0
+      }
+    },
+    "effective_independent_funds": 1.2158987462726465,
+    "beta_vs_sp500": {
+      "IXN*": 1.1561563881158123,
+      "QQQ*": 1.2082123088202803,
+      "VOO*": 1.0
+    },
+    "tracking_error_ixn_qqq": 0.0977677384078939
+  },
+  "2000": {
+    "correlations": {
+      "IXN / prelaunch FSPTX": {
+        "IXN / prelaunch FSPTX": 1.0,
+        "QQQ / prelaunch NDX price": 0.9384291133276784,
+        "VOO / prelaunch S&P TR": 0.8210057585845197
+      },
+      "QQQ / prelaunch NDX price": {
+        "IXN / prelaunch FSPTX": 0.9384291133276784,
+        "QQQ / prelaunch NDX price": 1.0,
+        "VOO / prelaunch S&P TR": 0.8479843946916916
+      },
+      "VOO / prelaunch S&P TR": {
+        "IXN / prelaunch FSPTX": 0.8210057585845197,
+        "QQQ / prelaunch NDX price": 0.8479843946916916,
+        "VOO / prelaunch S&P TR": 1.0
+      }
+    },
+    "effective_independent_funds": 1.1924392388378973,
+    "beta_vs_sp500": {
+      "IXN*": 1.1297042927604897,
+      "QQQ*": 1.1822483970954858,
+      "VOO*": 1.0
+    },
+    "tracking_error_ixn_qqq": 0.09323016917524997
+  },
+  "IXN inception": {
+    "correlations": {
+      "IXN / prelaunch FSPTX": {
+        "IXN / prelaunch FSPTX": 1.0,
+        "QQQ / prelaunch NDX price": 0.9483853627129416,
+        "VOO / prelaunch S&P TR": 0.8782663072593454
+      },
+      "QQQ / prelaunch NDX price": {
+        "IXN / prelaunch FSPTX": 0.9483853627129416,
+        "QQQ / prelaunch NDX price": 1.0,
+        "VOO / prelaunch S&P TR": 0.9029680969766466
+      },
+      "VOO / prelaunch S&P TR": {
+        "IXN / prelaunch FSPTX": 0.8782663072593454,
+        "QQQ / prelaunch NDX price": 0.9029680969766466,
+        "VOO / prelaunch S&P TR": 1.0
+      }
+    },
+    "effective_independent_funds": 1.1289122774364297,
+    "beta_vs_sp500": {
+      "IXN*": 1.0360741496952017,
+      "QQQ*": 1.0910511384293013,
+      "VOO*": 1.0
+    },
+    "tracking_error_ixn_qqq": 0.07276268202784515
+  },
+  "2010": {
+    "correlations": {
+      "IXN / prelaunch FSPTX": {
+        "IXN / prelaunch FSPTX": 1.0,
+        "QQQ / prelaunch NDX price": 0.9566223597567556,
+        "VOO / prelaunch S&P TR": 0.897985754588993
+      },
+      "QQQ / prelaunch NDX price": {
+        "IXN / prelaunch FSPTX": 0.9566223597567556,
+        "QQQ / prelaunch NDX price": 1.0,
+        "VOO / prelaunch S&P TR": 0.9291558438766436
+      },
+      "VOO / prelaunch S&P TR": {
+        "IXN / prelaunch FSPTX": 0.897985754588993,
+        "QQQ / prelaunch NDX price": 0.9291558438766436,
+        "VOO / prelaunch S&P TR": 1.0
+      }
+    },
+    "effective_independent_funds": 1.1016355933406006,
+    "beta_vs_sp500": {
+      "IXN*": 1.0982004136172776,
+      "QQQ*": 1.1222653354729701,
+      "VOO*": 1.0
+    },
+    "tracking_error_ixn_qqq": 0.06121195171384486
+  }
+}

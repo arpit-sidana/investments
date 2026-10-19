@@ -1,0 +1,4 @@
+vendor/
+outputs/mpl-cache/
+outputs/ipython/
+__pycache__/

@@ -1,0 +1,9 @@
+{
+  "researchAsOf": "2026-10-19",
+  "appId": "report:c2b5509f-58fb-424a-bd64-e31d5609bb2b",
+  "htmlSha256": "ef06823155f0238ccf087b9549462f95cd063d38692d2db002dc822ca0ccfc24",
+  "snapshotSha256": "75f33f9d197d598aec8d4f6247566528d36e6ac40d20a555fea972583ed8ba39",
+  "offlineSha256": "bd0152d6be634843975c140a604e6af77cb0677214861b9bd97836fe69ecddf8",
+  "queries": 19,
+  "reviewedRows": 2392
+}

@@ -1,0 +1,1947 @@
+{
+  "reconciliation": {
+    "months_checked": 298,
+    "largest_abs_monthly_error_bp": 2.7484985682785235,
+    "nav_bridge_date": "2026-10-19",
+    "nav_bridge_return": 0.01375845859233027
+  },
+  "history": [
+    {
+      "start": "1989-12-29",
+      "end": "2026-10-19",
+      "years": 36.805683894946505,
+      "cagr": 0.1505020347549677,
+      "total_return": 173.18151740430307,
+      "ending_10000": 1741815.1740430307,
+      "volatility": 0.2585557520411984,
+      "max_drawdown": -0.8392044799095523,
+      "dd_peak": "2000-03-10",
+      "dd_trough": "2002-10-09",
+      "recovered": "2017-10-27",
+      "sharpe_fixed_3pct": 0.5558907015639559,
+      "daily_cvar95": -0.03804706643122526,
+      "window": "1990",
+      "fund": "IXN*"
+    },
+    {
+      "start": "1989-12-29",
+      "end": "2026-10-19",
+      "years": 36.805683894946505,
+      "cagr": 0.14572197337985004,
+      "total_return": 148.4348591506477,
+      "ending_10000": 1494348.591506477,
+      "volatility": 0.2598298407661856,
+      "max_drawdown": -0.829639015993735,
+      "dd_peak": "2000-03-27",
+      "dd_trough": "2002-10-09",
+      "recovered": "2015-02-20",
+      "sharpe_fixed_3pct": 0.53843593010203,
+      "daily_cvar95": -0.038330486091448075,
+      "window": "1990",
+      "fund": "QQQ*"
+    },
+    {
+      "start": "1989-12-29",
+      "end": "2026-10-19",
+      "years": 36.805683894946505,
+      "cagr": 0.10878734389079892,
+      "total_return": 43.7374148101272,
+      "ending_10000": 447374.148101272,
+      "volatility": 0.17931441430797926,
+      "max_drawdown": -0.5526923999271103,
+      "dd_peak": "2007-10-09",
+      "dd_trough": "2009-03-09",
+      "recovered": "2012-08-16",
+      "sharpe_fixed_3pct": 0.49899197091166153,
+      "daily_cvar95": -0.026759444398664956,
+      "window": "1990",
+      "fund": "VOO*"
+    },
+    {
+      "start": "1999-12-31",
+      "end": "2026-10-19",
+      "years": 26.801371691410502,
+      "cagr": 0.08356290207085837,
+      "total_return": 7.592873749053888,
+      "ending_10000": 85928.73749053889,
+      "volatility": 0.26375386060450046,
+      "max_drawdown": -0.8392044799095523,
+      "dd_peak": "2000-03-10",
+      "dd_trough": "2002-10-09",
+      "recovered": "2017-10-27",
+      "sharpe_fixed_3pct": 0.32279410401097763,
+      "daily_cvar95": -0.03960932982927544,
+      "window": "2000",
+      "fund": "IXN*"
+    },
+    {
+      "start": "1999-12-31",
+      "end": "2026-10-19",
+      "years": 26.801371691410502,
+      "cagr": 0.08693707767239256,
+      "total_return": 8.339587175774355,
+      "ending_10000": 93395.87175774355,
+      "volatility": 0.2672397908761496,
+      "max_drawdown": -0.829639015993735,
+      "dd_peak": "2000-03-27",
+      "dd_trough": "2002-10-09",
+      "recovered": "2015-02-20",
+      "sharpe_fixed_3pct": 0.33379931675359487,
+      "daily_cvar95": -0.04038798578967987,
+      "window": "2000",
+      "fund": "QQQ*"
+    },
+    {
+      "start": "1999-12-31",
+      "end": "2026-10-19",
+      "years": 26.801371691410502,
+      "cagr": 0.08275259738413943,
+      "total_return": 7.422302593487386,
+      "ending_10000": 84223.02593487388,
+      "volatility": 0.1916815221406821,
+      "max_drawdown": -0.5526923999271103,
+      "dd_peak": "2007-10-09",
+      "dd_trough": "2009-03-09",
+      "recovered": "2012-08-16",
+      "sharpe_fixed_3pct": 0.35523135511759907,
+      "daily_cvar95": -0.028902769534982234,
+      "window": "2000",
+      "fund": "VOO*"
+    },
+    {
+      "start": "2001-11-12",
+      "end": "2026-10-19",
+      "years": 24.93411911264434,
+      "cagr": 0.12497809815344896,
+      "total_return": 17.846567666720574,
+      "ending_10000": 188465.67666720576,
+      "volatility": 0.2231507494692092,
+      "max_drawdown": -0.549668539645507,
+      "dd_peak": "2007-10-31",
+      "dd_trough": "2009-03-09",
+      "recovered": "2012-02-28",
+      "sharpe_fixed_3pct": 0.5059007995040378,
+      "daily_cvar95": -0.033010763086849484,
+      "window": "IXN inception",
+      "fund": "IXN*"
+    },
+    {
+      "start": "2001-11-12",
+      "end": "2026-10-19",
+      "years": 24.93411911264434,
+      "cagr": 0.1329159010551053,
+      "total_return": 21.45800731054304,
+      "ending_10000": 224580.07310543038,
+      "volatility": 0.22856326666099844,
+      "max_drawdown": -0.5340400738942065,
+      "dd_peak": "2007-10-31",
+      "dd_trough": "2008-11-20",
+      "recovered": "2010-12-08",
+      "sharpe_fixed_3pct": 0.5301222505211027,
+      "daily_cvar95": -0.03385814255222089,
+      "window": "IXN inception",
+      "fund": "QQQ*"
+    },
+    {
+      "start": "2001-11-12",
+      "end": "2026-10-19",
+      "years": 24.93411911264434,
+      "cagr": 0.1002317520911542,
+      "total_return": 9.823590261609322,
+      "ending_10000": 108235.90261609323,
+      "volatility": 0.1891619289566606,
+      "max_drawdown": -0.5526923999271103,
+      "dd_peak": "2007-10-09",
+      "dd_trough": "2009-03-09",
+      "recovered": "2012-08-16",
+      "sharpe_fixed_3pct": 0.4421093750572128,
+      "daily_cvar95": -0.028695374594498637,
+      "window": "IXN inception",
+      "fund": "VOO*"
+    },
+    {
+      "start": "2009-12-31",
+      "end": "2026-10-19",
+      "years": 16.799797394881484,
+      "cagr": 0.18481356316474518,
+      "total_return": 16.270518089619102,
+      "ending_10000": 172705.18089619104,
+      "volatility": 0.20893128830433372,
+      "max_drawdown": -0.3614204476906777,
+      "dd_peak": "2021-12-27",
+      "dd_trough": "2022-10-12",
+      "recovered": "2023-11-16",
+      "sharpe_fixed_3pct": 0.774750665327706,
+      "daily_cvar95": -0.031035754982045412,
+      "window": "2010",
+      "fund": "IXN*"
+    },
+    {
+      "start": "2009-12-31",
+      "end": "2026-10-19",
+      "years": 16.799797394881484,
+      "cagr": 0.18824077908181747,
+      "total_return": 17.129241359684244,
+      "ending_10000": 181292.41359684244,
+      "volatility": 0.20634707277001388,
+      "max_drawdown": -0.3511873546015002,
+      "dd_peak": "2021-12-27",
+      "dd_trough": "2022-11-03",
+      "recovered": "2023-12-13",
+      "sharpe_fixed_3pct": 0.7959665966628303,
+      "daily_cvar95": -0.030878392023465113,
+      "window": "2010",
+      "fund": "QQQ*"
+    },
+    {
+      "start": "2009-12-31",
+      "end": "2026-10-19",
+      "years": 16.799797394881484,
+      "cagr": 0.14190295772037875,
+      "total_return": 8.293062285370823,
+      "ending_10000": 92930.62285370824,
+      "volatility": 0.1708406937921635,
+      "max_drawdown": -0.33993026362736156,
+      "dd_peak": "2020-02-19",
+      "dd_trough": "2020-03-23",
+      "recovered": "2020-08-10",
+      "sharpe_fixed_3pct": 0.6887315973148126,
+      "daily_cvar95": -0.02588367157075162,
+      "window": "2010",
+      "fund": "VOO*"
+    }
+  ],
+  "trailing": [
+    {
+      "horizon_years": 1,
+      "fund": "IXN*",
+      "start": "2025-10-17",
+      "end": "2026-10-19",
+      "years": 1.0048118715647822,
+      "cagr": 0.3390901586703623,
+      "total_return": 0.34097292986938976,
+      "ending_10000": 13409.729298693897,
+      "volatility": 0.2793671957879015,
+      "max_drawdown": -0.16306721396822954,
+      "dd_peak": "2026-06-02",
+      "dd_trough": "2026-07-29",
+      "recovered": "2026-10-01",
+      "sharpe_fixed_3pct": 1.0870257891710544,
+      "daily_cvar95": -0.03497440479449661
+    },
+    {
+      "horizon_years": 1,
+      "fund": "QQQ*",
+      "start": "2025-10-17",
+      "end": "2026-10-19",
+      "years": 1.0048118715647822,
+      "cagr": 0.194044916152305,
+      "total_return": 0.19506431222734455,
+      "ending_10000": 11950.643122273446,
+      "volatility": 0.1985885964741805,
+      "max_drawdown": -0.11964368715543972,
+      "dd_peak": "2025-10-29",
+      "dd_trough": "2026-03-30",
+      "recovered": "2026-04-15",
+      "sharpe_fixed_3pct": 0.8490596867039742,
+      "daily_cvar95": -0.024255025063585046
+    },
+    {
+      "horizon_years": 1,
+      "fund": "VOO*",
+      "start": "2025-10-17",
+      "end": "2026-10-19",
+      "years": 1.0048118715647822,
+      "cagr": 0.16607143982136807,
+      "total_return": 0.16693383244712745,
+      "ending_10000": 11669.338324471275,
+      "volatility": 0.12667554431023823,
+      "max_drawdown": -0.08900461080512478,
+      "dd_peak": "2026-01-27",
+      "dd_trough": "2026-03-30",
+      "recovered": "2026-04-14",
+      "sharpe_fixed_3pct": 1.0501692438635601,
+      "daily_cvar95": -0.01667110397922523
+    },
+    {
+      "horizon_years": 3,
+      "fund": "IXN*",
+      "start": "2023-10-19",
+      "end": "2026-10-19",
+      "years": 3.0007460796594043,
+      "cagr": 0.3411003460742541,
+      "total_return": 1.412564427568809,
+      "ending_10000": 24125.64427568809,
+      "volatility": 0.2569547171989595,
+      "max_drawdown": -0.2559444148808584,
+      "dd_peak": "2025-02-19",
+      "dd_trough": "2025-04-08",
+      "recovered": "2025-06-24",
+      "sharpe_fixed_3pct": 1.1620157948619405,
+      "daily_cvar95": -0.03648826988181823
+    },
+    {
+      "horizon_years": 3,
+      "fund": "QQQ*",
+      "start": "2023-10-19",
+      "end": "2026-10-19",
+      "years": 3.0007460796594043,
+      "cagr": 0.26603889286584725,
+      "total_return": 1.0296332829500843,
+      "ending_10000": 20296.33282950084,
+      "volatility": 0.20496540833015273,
+      "max_drawdown": -0.22768304537115625,
+      "dd_peak": "2025-02-19",
+      "dd_trough": "2025-04-08",
+      "recovered": "2025-06-24",
+      "sharpe_fixed_3pct": 1.11490418063618,
+      "daily_cvar95": -0.028634422264854482
+    },
+    {
+      "horizon_years": 3,
+      "fund": "VOO*",
+      "start": "2023-10-19",
+      "end": "2026-10-19",
+      "years": 3.0007460796594043,
+      "cagr": 0.2314514556955154,
+      "total_return": 0.8677525923512226,
+      "ending_10000": 18677.52592351223,
+      "volatility": 0.14852074104142618,
+      "max_drawdown": -0.186893946697825,
+      "dd_peak": "2025-02-19",
+      "dd_trough": "2025-04-08",
+      "recovered": "2025-06-26",
+      "sharpe_fixed_3pct": 1.2839678703003565,
+      "daily_cvar95": -0.02097436214205531
+    },
+    {
+      "horizon_years": 5,
+      "fund": "IXN*",
+      "start": "2021-10-19",
+      "end": "2026-10-19",
+      "years": 4.999418194761015,
+      "cagr": 0.19208296899346444,
+      "total_return": 1.407066126400165,
+      "ending_10000": 24070.66126400165,
+      "volatility": 0.2597146279044633,
+      "max_drawdown": -0.3614204476906777,
+      "dd_peak": "2021-12-27",
+      "dd_trough": "2022-10-12",
+      "recovered": "2023-11-16",
+      "sharpe_fixed_3pct": 0.6939011517380301,
+      "daily_cvar95": -0.03590589570685315
+    },
+    {
+      "horizon_years": 5,
+      "fund": "QQQ*",
+      "start": "2021-10-19",
+      "end": "2026-10-19",
+      "years": 4.999418194761015,
+      "cagr": 0.14539773360861985,
+      "total_return": 0.9712753720089049,
+      "ending_10000": 19712.753720089047,
+      "volatility": 0.22999841139854477,
+      "max_drawdown": -0.3511873546015002,
+      "dd_peak": "2021-12-27",
+      "dd_trough": "2022-11-03",
+      "recovered": "2023-12-13",
+      "sharpe_fixed_3pct": 0.5774139849778303,
+      "daily_cvar95": -0.0324871497125846
+    },
+    {
+      "horizon_years": 5,
+      "fund": "VOO*",
+      "start": "2021-10-19",
+      "end": "2026-10-19",
+      "years": 4.999418194761015,
+      "cagr": 0.12773792476670986,
+      "total_return": 0.8239400219283608,
+      "ending_10000": 18239.40021928361,
+      "volatility": 0.16897905953128534,
+      "max_drawdown": -0.2452073911200704,
+      "dd_peak": "2022-01-03",
+      "dd_trough": "2022-10-12",
+      "recovered": "2023-12-13",
+      "sharpe_fixed_3pct": 0.6217029882376641,
+      "daily_cvar95": -0.024385694161376953
+    },
+    {
+      "horizon_years": 10,
+      "fund": "IXN*",
+      "start": "2016-10-19",
+      "end": "2026-10-19",
+      "years": 9.99883638952203,
+      "cagr": 0.23446947161968645,
+      "total_return": 7.2166936604905185,
+      "ending_10000": 82166.93660490519,
+      "volatility": 0.23756197887620978,
+      "max_drawdown": -0.3614204476906777,
+      "dd_peak": "2021-12-27",
+      "dd_trough": "2022-10-12",
+      "recovered": "2023-11-16",
+      "sharpe_fixed_3pct": 0.8823306502608672,
+      "daily_cvar95": -0.03473886532063779
+    },
+    {
+      "horizon_years": 10,
+      "fund": "QQQ*",
+      "start": "2016-10-19",
+      "end": "2026-10-19",
+      "years": 9.99883638952203,
+      "cagr": 0.20629287966848775,
+      "total_return": 5.522782000515411,
+      "ending_10000": 65227.820005154106,
+      "volatility": 0.2258694100872658,
+      "max_drawdown": -0.3511873546015002,
+      "dd_peak": "2021-12-27",
+      "dd_trough": "2022-11-03",
+      "recovered": "2023-12-13",
+      "sharpe_fixed_3pct": 0.813491041847545,
+      "daily_cvar95": -0.033653824777892784
+    },
+    {
+      "horizon_years": 10,
+      "fund": "VOO*",
+      "start": "2016-10-19",
+      "end": "2026-10-19",
+      "years": 9.99883638952203,
+      "cagr": 0.15480009792394167,
+      "total_return": 3.2169202404786192,
+      "ending_10000": 42169.20240478619,
+      "volatility": 0.18018746109945727,
+      "max_drawdown": -0.33993026362736156,
+      "dd_peak": "2020-02-19",
+      "dd_trough": "2020-03-23",
+      "recovered": "2020-08-10",
+      "sharpe_fixed_3pct": 0.7253069510160606,
+      "daily_cvar95": -0.02739641048183704
+    }
+  ],
+  "concentration": [
+    {
+      "fund": "IXN",
+      "snapshot_date": "2026-10-16",
+      "equity_lines": 130,
+      "issuers": 129,
+      "equity_weight_total": 0.9976,
+      "hhi": 0.05735143655117107,
+      "effective_stocks": 17.436354869816782,
+      "top3": 0.367682437850842,
+      "top10_issuers": 0.6088612670408979,
+      "top10_lines": 0.6048516439454692
+    },
+    {
+      "fund": "QQQ",
+      "snapshot_date": "2026-10-16",
+      "equity_lines": 101,
+      "issuers": 100,
+      "equity_weight_total": 0.9986311200000001,
+      "hhi": 0.03367199147935047,
+      "effective_stocks": 29.698273136391574,
+      "top3": 0.22309050412929252,
+      "top10_issuers": 0.49807588611899056,
+      "top10_lines": 0.4707175057793112
+    },
+    {
+      "fund": "VOO",
+      "snapshot_date": "2026-09-30",
+      "equity_lines": 505,
+      "issuers": 502,
+      "equity_weight_total": 1.0012999999999999,
+      "hhi": 0.02448321227146546,
+      "effective_stocks": 40.84431360199714,
+      "top3": 0.21522021372216124,
+      "top10_issuers": 0.40567262558673733,
+      "top10_lines": 0.39049235993208836
+    }
+  ],
+  "overlap": {
+    "QQQ": {
+      "weighted_overlap": 0.5295328836297174,
+      "ixn_weight_in_common_names": 0.7087008821170808
+    },
+    "VOO": {
+      "weighted_overlap": 0.39718366124038745,
+      "ixn_weight_in_common_names": 0.7715517241379308
+    }
+  },
+  "rolling": [
+    {
+      "years": 1,
+      "fund": "IXN*",
+      "observations": 287,
+      "median_cagr": 0.1534438373967304,
+      "worst_cagr": -0.44968820294747536,
+      "best_cagr": 0.7241090527301866,
+      "ixn_beats_qqq_fraction": 0.397212543554007
+    },
+    {
+      "years": 1,
+      "fund": "QQQ*",
+      "observations": 287,
+      "median_cagr": 0.18789146473764906,
+      "worst_cagr": -0.43065359288955973,
+      "best_cagr": 0.6841855612132082,
+      "ixn_beats_qqq_fraction": 0.397212543554007
+    },
+    {
+      "years": 1,
+      "fund": "VOO*",
+      "observations": 287,
+      "median_cagr": 0.14198402910347951,
+      "worst_cagr": -0.43337500653022787,
+      "best_cagr": 0.5647357481197661,
+      "ixn_beats_qqq_fraction": 0.397212543554007
+    },
+    {
+      "years": 3,
+      "fund": "IXN*",
+      "observations": 263,
+      "median_cagr": 0.13993714130535317,
+      "worst_cagr": -0.14671967545061892,
+      "best_cagr": 0.40059481378074047,
+      "ixn_beats_qqq_fraction": 0.3726235741444867
+    },
+    {
+      "years": 3,
+      "fund": "QQQ*",
+      "observations": 263,
+      "median_cagr": 0.15889817054705713,
+      "worst_cagr": -0.12219370902321192,
+      "best_cagr": 0.3799427833140889,
+      "ixn_beats_qqq_fraction": 0.3726235741444867
+    },
+    {
+      "years": 3,
+      "fund": "VOO*",
+      "observations": 263,
+      "median_cagr": 0.11896383014599077,
+      "worst_cagr": -0.1513293576605177,
+      "best_cagr": 0.2603285096207102,
+      "ixn_beats_qqq_fraction": 0.3726235741444867
+    },
+    {
+      "years": 5,
+      "fund": "IXN*",
+      "observations": 239,
+      "median_cagr": 0.14809913957629495,
+      "worst_cagr": -0.0798033052269056,
+      "best_cagr": 0.29692128727863665,
+      "ixn_beats_qqq_fraction": 0.35564853556485354
+    },
+    {
+      "years": 5,
+      "fund": "QQQ*",
+      "observations": 239,
+      "median_cagr": 0.16193255521646943,
+      "worst_cagr": -0.05092617164056179,
+      "best_cagr": 0.2833858562023468,
+      "ixn_beats_qqq_fraction": 0.35564853556485354
+    },
+    {
+      "years": 5,
+      "fund": "VOO*",
+      "observations": 239,
+      "median_cagr": 0.11947173078139306,
+      "worst_cagr": -0.06662732315710906,
+      "best_cagr": 0.2295796146203264,
+      "ixn_beats_qqq_fraction": 0.35564853556485354
+    },
+    {
+      "years": 10,
+      "fund": "IXN*",
+      "observations": 179,
+      "median_cagr": 0.15336084474372003,
+      "worst_cagr": 0.011594920385004759,
+      "best_cagr": 0.2541525750593778,
+      "ixn_beats_qqq_fraction": 0.24022346368715083
+    },
+    {
+      "years": 10,
+      "fund": "QQQ*",
+      "observations": 179,
+      "median_cagr": 0.16969718791920219,
+      "worst_cagr": 0.04033868954973796,
+      "best_cagr": 0.22879399287997093,
+      "ixn_beats_qqq_fraction": 0.24022346368715083
+    },
+    {
+      "years": 10,
+      "fund": "VOO*",
+      "observations": 179,
+      "median_cagr": 0.11902017128934483,
+      "worst_cagr": 0.02862899416196507,
+      "best_cagr": 0.16571540734527268,
+      "ixn_beats_qqq_fraction": 0.24022346368715083
+    }
+  ],
+  "technicals": [
+    {
+      "low": 139.19500732421875,
+      "close": 139.25999450683594,
+      "high": 140.86000061035156,
+      "open": 140.0,
+      "volume": 391722.0,
+      "adjusted": 139.25999450683594,
+      "sma20": 147.54450149536132,
+      "sma50": 143.6758010864258,
+      "sma100": 141.18409996032716,
+      "sma200": 126.48794982910157,
+      "rsi14": 37.3312020049098,
+      "macd": -0.6541466025487921,
+      "signal": 1.0283551943458542,
+      "histogram": -1.6825017968946463,
+      "atr14": 2.8790368085865756,
+      "bb_lower": 139.17827064662345,
+      "bb_upper": 155.9107323440992,
+      "fund": "IXN",
+      "asof": "2026-10-19",
+      "high52": 154.0399932861328,
+      "low52": 95.11000061035156,
+      "volume_ratio20": 1.297990563671361,
+      "realized_vol63": 0.2637939482104204
+    },
+    {
+      "low": 716.5700073242188,
+      "volume": 36830609.0,
+      "high": 724.5499877929688,
+      "open": 719.614990234375,
+      "close": 718.3599853515625,
+      "adjusted": 718.3599853515625,
+      "sma20": 741.3635040283203,
+      "sma50": 726.68,
+      "sma100": 720.6236999511718,
+      "sma200": 675.4294998168946,
+      "rsi14": 41.14714672470949,
+      "macd": -0.011334698150562872,
+      "signal": 4.931158157256954,
+      "histogram": -4.942492855407517,
+      "atr14": 10.84600466845331,
+      "bb_lower": 716.880423904849,
+      "bb_upper": 765.8465841517917,
+      "fund": "QQQ",
+      "asof": "2026-10-19",
+      "high52": 762.8599853515625,
+      "low52": 555.5999755859375,
+      "volume_ratio20": 1.0381475146554133,
+      "realized_vol63": 0.185792148442857
+    },
+    {
+      "low": 703.9805297851562,
+      "high": 708.1599731445312,
+      "close": 704.5999755859375,
+      "volume": 5578337.0,
+      "open": 705.27001953125,
+      "adjusted": 704.5999755859375,
+      "sma20": 708.9054992675781,
+      "sma50": 706.5008032226563,
+      "sma100": 696.7586022949218,
+      "sma200": 667.0731512451172,
+      "rsi14": 47.013337092681546,
+      "macd": 0.9713206825568932,
+      "signal": 1.9695052822881902,
+      "histogram": -0.998184599731297,
+      "atr14": 6.480128758143244,
+      "bb_lower": 698.9015290698377,
+      "bb_upper": 718.9094694653185,
+      "fund": "VOO",
+      "asof": "2026-10-19",
+      "high52": 718.469970703125,
+      "low52": 578.4600219726562,
+      "volume_ratio20": 0.7564219246945021,
+      "realized_vol63": 0.10968076797892298
+    }
+  ],
+  "risk": {
+    "1990": {
+      "correlations": {
+        "IXN / prelaunch FSPTX": {
+          "IXN / prelaunch FSPTX": 1.0,
+          "QQQ / prelaunch NDX price": 0.9288714181340165,
+          "VOO / prelaunch S&P TR": 0.8018212859189534
+        },
+        "QQQ / prelaunch NDX price": {
+          "IXN / prelaunch FSPTX": 0.9288714181340165,
+          "QQQ / prelaunch NDX price": 1.0,
+          "VOO / prelaunch S&P TR": 0.8338144759545078
+        },
+        "VOO / prelaunch S&P TR": {
+          "IXN / prelaunch FSPTX": 0.8018212859189534,
+          "QQQ / prelaunch NDX price": 0.8338144759545078,
+          "VOO / prelaunch S&P TR": 1.0
+        }
+      },
+      "effective_independent_funds": 1.2158987462726465,
+      "beta_vs_sp500": {
+        "IXN*": 1.1561563881158123,
+        "QQQ*": 1.2082123088202803,
+        "VOO*": 1.0
+      },
+      "tracking_error_ixn_qqq": 0.0977677384078939
+    },
+    "2000": {
+      "correlations": {
+        "IXN / prelaunch FSPTX": {
+          "IXN / prelaunch FSPTX": 1.0,
+          "QQQ / prelaunch NDX price": 0.9384291133276784,
+          "VOO / prelaunch S&P TR": 0.8210057585845197
+        },
+        "QQQ / prelaunch NDX price": {
+          "IXN / prelaunch FSPTX": 0.9384291133276784,
+          "QQQ / prelaunch NDX price": 1.0,
+          "VOO / prelaunch S&P TR": 0.8479843946916916
+        },
+        "VOO / prelaunch S&P TR": {
+          "IXN / prelaunch FSPTX": 0.8210057585845197,
+          "QQQ / prelaunch NDX price": 0.8479843946916916,
+          "VOO / prelaunch S&P TR": 1.0
+        }
+      },
+      "effective_independent_funds": 1.1924392388378973,
+      "beta_vs_sp500": {
+        "IXN*": 1.1297042927604897,
+        "QQQ*": 1.1822483970954858,
+        "VOO*": 1.0
+      },
+      "tracking_error_ixn_qqq": 0.09323016917524997
+    },
+    "IXN inception": {
+      "correlations": {
+        "IXN / prelaunch FSPTX": {
+          "IXN / prelaunch FSPTX": 1.0,
+          "QQQ / prelaunch NDX price": 0.9483853627129416,
+          "VOO / prelaunch S&P TR": 0.8782663072593454
+        },
+        "QQQ / prelaunch NDX price": {
+          "IXN / prelaunch FSPTX": 0.9483853627129416,
+          "QQQ / prelaunch NDX price": 1.0,
+          "VOO / prelaunch S&P TR": 0.9029680969766466
+        },
+        "VOO / prelaunch S&P TR": {
+          "IXN / prelaunch FSPTX": 0.8782663072593454,
+          "QQQ / prelaunch NDX price": 0.9029680969766466,
+          "VOO / prelaunch S&P TR": 1.0
+        }
+      },
+      "effective_independent_funds": 1.1289122774364297,
+      "beta_vs_sp500": {
+        "IXN*": 1.0360741496952017,
+        "QQQ*": 1.0910511384293013,
+        "VOO*": 1.0
+      },
+      "tracking_error_ixn_qqq": 0.07276268202784515
+    },
+    "2010": {
+      "correlations": {
+        "IXN / prelaunch FSPTX": {
+          "IXN / prelaunch FSPTX": 1.0,
+          "QQQ / prelaunch NDX price": 0.9566223597567556,
+          "VOO / prelaunch S&P TR": 0.897985754588993
+        },
+        "QQQ / prelaunch NDX price": {
+          "IXN / prelaunch FSPTX": 0.9566223597567556,
+          "QQQ / prelaunch NDX price": 1.0,
+          "VOO / prelaunch S&P TR": 0.9291558438766436
+        },
+        "VOO / prelaunch S&P TR": {
+          "IXN / prelaunch FSPTX": 0.897985754588993,
+          "QQQ / prelaunch NDX price": 0.9291558438766436,
+          "VOO / prelaunch S&P TR": 1.0
+        }
+      },
+      "effective_independent_funds": 1.1016355933406006,
+      "beta_vs_sp500": {
+        "IXN*": 1.0982004136172776,
+        "QQQ*": 1.1222653354729701,
+        "VOO*": 1.0
+      },
+      "tracking_error_ixn_qqq": 0.06121195171384486
+    }
+  },
+  "exclusion": [
+    {
+      "window": "1990",
+      "weight_sensitivity": "No removal",
+      "method": "Exclude and reallocate",
+      "TSM_weight": 0,
+      "ASML_weight": 0,
+      "cagr": 0.1505020347549677,
+      "ending_10000": 1741815.1740430326
+    },
+    {
+      "window": "2000",
+      "weight_sensitivity": "No removal",
+      "method": "Exclude and reallocate",
+      "TSM_weight": 0,
+      "ASML_weight": 0,
+      "cagr": 0.08356290207085837,
+      "ending_10000": 85928.73749053899
+    },
+    {
+      "window": "IXN inception",
+      "weight_sensitivity": "No removal",
+      "method": "Exclude and reallocate",
+      "TSM_weight": 0,
+      "ASML_weight": 0,
+      "cagr": 0.12497809815344896,
+      "ending_10000": 188465.676667206
+    },
+    {
+      "window": "2010",
+      "weight_sensitivity": "No removal",
+      "method": "Exclude and reallocate",
+      "TSM_weight": 0,
+      "ASML_weight": 0,
+      "cagr": 0.1848135631647454,
+      "ending_10000": 172705.18089619128
+    },
+    {
+      "window": "1990",
+      "weight_sensitivity": "No removal",
+      "method": "Replace removed sleeve with zero-return cash",
+      "TSM_weight": 0,
+      "ASML_weight": 0,
+      "cagr": 0.1505020347549677,
+      "ending_10000": 1741815.1740430326
+    },
+    {
+      "window": "2000",
+      "weight_sensitivity": "No removal",
+      "method": "Replace removed sleeve with zero-return cash",
+      "TSM_weight": 0,
+      "ASML_weight": 0,
+      "cagr": 0.08356290207085837,
+      "ending_10000": 85928.73749053899
+    },
+    {
+      "window": "IXN inception",
+      "weight_sensitivity": "No removal",
+      "method": "Replace removed sleeve with zero-return cash",
+      "TSM_weight": 0,
+      "ASML_weight": 0,
+      "cagr": 0.12497809815344896,
+      "ending_10000": 188465.676667206
+    },
+    {
+      "window": "2010",
+      "weight_sensitivity": "No removal",
+      "method": "Replace removed sleeve with zero-return cash",
+      "TSM_weight": 0,
+      "ASML_weight": 0,
+      "cagr": 0.1848135631647454,
+      "ending_10000": 172705.18089619128
+    },
+    {
+      "window": "1990",
+      "weight_sensitivity": "Half current weights",
+      "method": "Exclude and reallocate",
+      "TSM_weight": 0.023399999999999997,
+      "ASML_weight": 0.01265,
+      "cagr": 0.14797924578023203,
+      "ending_10000": 1606620.1301839366
+    },
+    {
+      "window": "2000",
+      "weight_sensitivity": "Half current weights",
+      "method": "Exclude and reallocate",
+      "TSM_weight": 0.023399999999999997,
+      "ASML_weight": 0.01265,
+      "cagr": 0.0803013247691895,
+      "ending_10000": 79259.1782818975
+    },
+    {
+      "window": "IXN inception",
+      "weight_sensitivity": "Half current weights",
+      "method": "Exclude and reallocate",
+      "TSM_weight": 0.023399999999999997,
+      "ASML_weight": 0.01265,
+      "cagr": 0.12133868289781491,
+      "ending_10000": 173837.4739723042
+    },
+    {
+      "window": "2010",
+      "weight_sensitivity": "Half current weights",
+      "method": "Exclude and reallocate",
+      "TSM_weight": 0.023399999999999997,
+      "ASML_weight": 0.01265,
+      "cagr": 0.18084442853823135,
+      "ending_10000": 163238.45618487426
+    },
+    {
+      "window": "1990",
+      "weight_sensitivity": "Half current weights",
+      "method": "Replace removed sleeve with zero-return cash",
+      "TSM_weight": 0.023399999999999997,
+      "ASML_weight": 0.01265,
+      "cagr": 0.14524820039754904,
+      "ending_10000": 1471772.6296289654
+    },
+    {
+      "window": "2000",
+      "weight_sensitivity": "Half current weights",
+      "method": "Replace removed sleeve with zero-return cash",
+      "TSM_weight": 0.023399999999999997,
+      "ASML_weight": 0.01265,
+      "cagr": 0.07677351881967742,
+      "ending_10000": 72606.76438108878
+    },
+    {
+      "window": "IXN inception",
+      "weight_sensitivity": "Half current weights",
+      "method": "Replace removed sleeve with zero-return cash",
+      "TSM_weight": 0.023399999999999997,
+      "ASML_weight": 0.01265,
+      "cagr": 0.11740312400607222,
+      "ending_10000": 159246.8757172759
+    },
+    {
+      "window": "2010",
+      "weight_sensitivity": "Half current weights",
+      "method": "Replace removed sleeve with zero-return cash",
+      "TSM_weight": 0.023399999999999997,
+      "ASML_weight": 0.01265,
+      "cagr": 0.1743944745823165,
+      "ending_10000": 148888.46172110637
+    },
+    {
+      "window": "1990",
+      "weight_sensitivity": "Current weights",
+      "method": "Exclude and reallocate",
+      "TSM_weight": 0.046799999999999994,
+      "ASML_weight": 0.0253,
+      "cagr": 0.14522346012518472,
+      "ending_10000": 1470602.8810668471
+    },
+    {
+      "window": "2000",
+      "weight_sensitivity": "Current weights",
+      "method": "Exclude and reallocate",
+      "TSM_weight": 0.046799999999999994,
+      "ASML_weight": 0.0253,
+      "cagr": 0.07674157511045498,
+      "ending_10000": 72549.05733006402
+    },
+    {
+      "window": "IXN inception",
+      "weight_sensitivity": "Current weights",
+      "method": "Exclude and reallocate",
+      "TSM_weight": 0.046799999999999994,
+      "ASML_weight": 0.0253,
+      "cagr": 0.11736749256655776,
+      "ending_10000": 159120.30806671488
+    },
+    {
+      "window": "2010",
+      "weight_sensitivity": "Current weights",
+      "method": "Exclude and reallocate",
+      "TSM_weight": 0.046799999999999994,
+      "ASML_weight": 0.0253,
+      "cagr": 0.1765260136568858,
+      "ending_10000": 153494.023009755
+    },
+    {
+      "window": "1990",
+      "weight_sensitivity": "Current weights",
+      "method": "Replace removed sleeve with zero-return cash",
+      "TSM_weight": 0.046799999999999994,
+      "ASML_weight": 0.0253,
+      "cagr": 0.13992213812057197,
+      "ending_10000": 1239738.7987740457
+    },
+    {
+      "window": "2000",
+      "weight_sensitivity": "Current weights",
+      "method": "Replace removed sleeve with zero-return cash",
+      "TSM_weight": 0.046799999999999994,
+      "ASML_weight": 0.0253,
+      "cagr": 0.06990265451769595,
+      "ending_10000": 61159.87010804353
+    },
+    {
+      "window": "IXN inception",
+      "weight_sensitivity": "Current weights",
+      "method": "Replace removed sleeve with zero-return cash",
+      "TSM_weight": 0.046799999999999994,
+      "ASML_weight": 0.0253,
+      "cagr": 0.1097408814472276,
+      "ending_10000": 134140.64539304972
+    },
+    {
+      "window": "2010",
+      "weight_sensitivity": "Current weights",
+      "method": "Replace removed sleeve with zero-return cash",
+      "TSM_weight": 0.046799999999999994,
+      "ASML_weight": 0.0253,
+      "cagr": 0.1639531013334794,
+      "ending_10000": 128145.31582459914
+    },
+    {
+      "window": "1990",
+      "weight_sensitivity": "Twice current weights",
+      "method": "Exclude and reallocate",
+      "TSM_weight": 0.09359999999999999,
+      "ASML_weight": 0.0506,
+      "cagr": 0.13887557969520214,
+      "ending_10000": 1198527.8639777312
+    },
+    {
+      "window": "2000",
+      "weight_sensitivity": "Twice current weights",
+      "method": "Exclude and reallocate",
+      "TSM_weight": 0.09359999999999999,
+      "ASML_weight": 0.0506,
+      "cagr": 0.0685539525606329,
+      "ending_10000": 59126.81651508824
+    },
+    {
+      "window": "IXN inception",
+      "weight_sensitivity": "Twice current weights",
+      "method": "Exclude and reallocate",
+      "TSM_weight": 0.09359999999999999,
+      "ASML_weight": 0.0506,
+      "cagr": 0.10823726941558509,
+      "ending_10000": 129681.59208577636
+    },
+    {
+      "window": "2010",
+      "weight_sensitivity": "Twice current weights",
+      "method": "Exclude and reallocate",
+      "TSM_weight": 0.09359999999999999,
+      "ASML_weight": 0.0506,
+      "cagr": 0.16664373701979107,
+      "ending_10000": 133213.7653449753
+    },
+    {
+      "window": "1990",
+      "weight_sensitivity": "Twice current weights",
+      "method": "Replace removed sleeve with zero-return cash",
+      "TSM_weight": 0.09359999999999999,
+      "ASML_weight": 0.0506,
+      "cagr": 0.1290574407882008,
+      "ending_10000": 871464.7038021768
+    },
+    {
+      "window": "2000",
+      "weight_sensitivity": "Twice current weights",
+      "method": "Replace removed sleeve with zero-return cash",
+      "TSM_weight": 0.09359999999999999,
+      "ASML_weight": 0.0506,
+      "cagr": 0.05592385765648822,
+      "ending_10000": 42991.852913687784
+    },
+    {
+      "window": "IXN inception",
+      "weight_sensitivity": "Twice current weights",
+      "method": "Replace removed sleeve with zero-return cash",
+      "TSM_weight": 0.09359999999999999,
+      "ASML_weight": 0.0506,
+      "cagr": 0.09416341852233345,
+      "ending_10000": 94293.1187770246
+    },
+    {
+      "window": "2010",
+      "weight_sensitivity": "Twice current weights",
+      "method": "Replace removed sleeve with zero-return cash",
+      "TSM_weight": 0.09359999999999999,
+      "ASML_weight": 0.0506,
+      "cagr": 0.1430101004875084,
+      "ending_10000": 94455.9638174263
+    }
+  ],
+  "diversification": [
+    {
+      "window": "1990",
+      "stocks": 100,
+      "paths": 5000,
+      "median_ending_10000": 1727981.1450453447,
+      "p05_ending_10000": 1276265.2296459286,
+      "p95_ending_10000": 2321663.490749303,
+      "median_cagr": 0.15025280343891267,
+      "median_volatility": 0.2578485405361143
+    },
+    {
+      "window": "1990",
+      "stocks": 130,
+      "paths": 5000,
+      "median_ending_10000": 1732757.862005657,
+      "p05_ending_10000": 1328279.6284371496,
+      "p95_ending_10000": 2244521.45347052,
+      "median_cagr": 0.15033907839641347,
+      "median_volatility": 0.25744797678289977
+    },
+    {
+      "window": "1990",
+      "stocks": 500,
+      "paths": 5000,
+      "median_ending_10000": 1742846.3525977172,
+      "p05_ending_10000": 1521595.8255646036,
+      "p95_ending_10000": 1987781.3773921733,
+      "median_cagr": 0.15052053503607088,
+      "median_volatility": 0.2564645598050751
+    },
+    {
+      "window": "1990",
+      "stocks": 1200,
+      "paths": 5000,
+      "median_ending_10000": 1743787.3449796713,
+      "p05_ending_10000": 1597435.3211748335,
+      "p95_ending_10000": 1898223.5937517532,
+      "median_cagr": 0.15053740806082283,
+      "median_volatility": 0.2562652771180649
+    },
+    {
+      "window": "2000",
+      "stocks": 100,
+      "paths": 5000,
+      "median_ending_10000": 84651.95648185036,
+      "p05_ending_10000": 65625.32571864095,
+      "p95_ending_10000": 109602.53588823757,
+      "median_cagr": 0.08295783923126332,
+      "median_volatility": 0.2533731136936751
+    },
+    {
+      "window": "2000",
+      "stocks": 130,
+      "paths": 5000,
+      "median_ending_10000": 84918.46693687688,
+      "p05_ending_10000": 67931.20451008833,
+      "p95_ending_10000": 106524.2160538757,
+      "median_cagr": 0.08308485994577064,
+      "median_volatility": 0.2529685574085431
+    },
+    {
+      "window": "2000",
+      "stocks": 500,
+      "paths": 5000,
+      "median_ending_10000": 85620.50052504805,
+      "p05_ending_10000": 76413.43813259013,
+      "p95_ending_10000": 96115.45479253396,
+      "median_cagr": 0.08341762590102175,
+      "median_volatility": 0.25197204933875555
+    },
+    {
+      "window": "2000",
+      "stocks": 1200,
+      "paths": 5000,
+      "median_ending_10000": 85777.76531015738,
+      "p05_ending_10000": 79706.44675074828,
+      "p95_ending_10000": 92424.40340247817,
+      "median_cagr": 0.08349180966410574,
+      "median_volatility": 0.2517730017387459
+    },
+    {
+      "window": "IXN inception",
+      "stocks": 100,
+      "paths": 5000,
+      "median_ending_10000": 186927.28811507256,
+      "p05_ending_10000": 144836.96912876747,
+      "p95_ending_10000": 236500.82247233647,
+      "median_cagr": 0.12460836266820752,
+      "median_volatility": 0.20864241361891878
+    },
+    {
+      "window": "IXN inception",
+      "stocks": 130,
+      "paths": 5000,
+      "median_ending_10000": 187344.19682845683,
+      "p05_ending_10000": 149789.5808958026,
+      "p95_ending_10000": 230243.52780868058,
+      "median_cagr": 0.12470885005667265,
+      "median_volatility": 0.20814948953882687
+    },
+    {
+      "window": "IXN inception",
+      "stocks": 500,
+      "paths": 5000,
+      "median_ending_10000": 188283.26543074736,
+      "p05_ending_10000": 168012.21002195927,
+      "p95_ending_10000": 209183.00191674192,
+      "median_cagr": 0.12493440922945098,
+      "median_volatility": 0.20692390944159045
+    },
+    {
+      "window": "IXN inception",
+      "stocks": 1200,
+      "paths": 5000,
+      "median_ending_10000": 188444.772449146,
+      "p05_ending_10000": 175078.43158285719,
+      "p95_ending_10000": 201693.93111005868,
+      "median_cagr": 0.12497309349055308,
+      "median_volatility": 0.20667371708245502
+    },
+    {
+      "window": "2010",
+      "stocks": 100,
+      "paths": 5000,
+      "median_ending_10000": 171560.76017757805,
+      "p05_ending_10000": 139867.49061451908,
+      "p95_ending_10000": 209791.94764536267,
+      "median_cagr": 0.18434476766760277,
+      "median_volatility": 0.1938691893542725
+    },
+    {
+      "window": "2010",
+      "stocks": 130,
+      "paths": 5000,
+      "median_ending_10000": 171843.10899383877,
+      "p05_ending_10000": 143662.62448141284,
+      "p95_ending_10000": 205006.46338833208,
+      "median_cagr": 0.18446070051783647,
+      "median_volatility": 0.19333851835984886
+    },
+    {
+      "window": "2010",
+      "stocks": 500,
+      "paths": 5000,
+      "median_ending_10000": 172500.4803661164,
+      "p05_ending_10000": 157459.95202160385,
+      "p95_ending_10000": 188772.94975503953,
+      "median_cagr": 0.18472992552622924,
+      "median_volatility": 0.19205717872081046
+    },
+    {
+      "window": "2010",
+      "stocks": 1200,
+      "paths": 5000,
+      "median_ending_10000": 172626.96773361648,
+      "p05_ending_10000": 162761.5118032515,
+      "p95_ending_10000": 182979.5217187432,
+      "median_cagr": 0.18478161742384824,
+      "median_volatility": 0.191800958932745
+    }
+  ],
+  "equicorrelation": [
+    {
+      "rho": 0.2,
+      "stocks": 100,
+      "stock_volatility": 0.35,
+      "portfolio_volatility": 0.15962455951387933
+    },
+    {
+      "rho": 0.2,
+      "stocks": 130,
+      "stock_volatility": 0.35,
+      "portfolio_volatility": 0.15891458760556298
+    },
+    {
+      "rho": 0.2,
+      "stocks": 500,
+      "stock_volatility": 0.35,
+      "portfolio_volatility": 0.15714961024450552
+    },
+    {
+      "rho": 0.2,
+      "stocks": 1200,
+      "stock_volatility": 0.35,
+      "portfolio_volatility": 0.15678541598843518
+    },
+    {
+      "rho": 0.6,
+      "stocks": 100,
+      "stock_volatility": 0.35,
+      "portfolio_volatility": 0.2720110291881563
+    },
+    {
+      "rho": 0.6,
+      "stocks": 130,
+      "stock_volatility": 0.35,
+      "portfolio_volatility": 0.27180309615036224
+    },
+    {
+      "rho": 0.6,
+      "stocks": 500,
+      "stock_volatility": 0.35,
+      "portfolio_volatility": 0.2712895132510654
+    },
+    {
+      "rho": 0.6,
+      "stocks": 1200,
+      "stock_volatility": 0.35,
+      "portfolio_volatility": 0.27118413178748735
+    },
+    {
+      "rho": 0.8,
+      "stocks": 100,
+      "stock_volatility": 0.35,
+      "portfolio_volatility": 0.31344058448133355
+    },
+    {
+      "rho": 0.8,
+      "stocks": 130,
+      "stock_volatility": 0.35,
+      "portfolio_volatility": 0.31335038142383287
+    },
+    {
+      "rho": 0.8,
+      "stocks": 500,
+      "stock_volatility": 0.35,
+      "portfolio_volatility": 0.3131277694488306
+    },
+    {
+      "rho": 0.8,
+      "stocks": 1200,
+      "stock_volatility": 0.35,
+      "portfolio_volatility": 0.313082124476417
+    }
+  ],
+  "bootstrap": [
+    {
+      "calibration_window": "1990",
+      "horizon_years": 1,
+      "fund": "IXN*",
+      "paths": 10000,
+      "p05_cagr": -0.3259579535563868,
+      "median_cagr": 0.16215626556771134,
+      "p95_cagr": 0.7308289754178399,
+      "loss_fraction": 0.1936,
+      "ixn_beats_qqq_fraction": 0.4799
+    },
+    {
+      "calibration_window": "1990",
+      "horizon_years": 1,
+      "fund": "QQQ*",
+      "paths": 10000,
+      "p05_cagr": -0.3334478160341666,
+      "median_cagr": 0.19371146174866416,
+      "p95_cagr": 0.6214752557854151,
+      "loss_fraction": 0.1518,
+      "ixn_beats_qqq_fraction": 0.4799
+    },
+    {
+      "calibration_window": "1990",
+      "horizon_years": 1,
+      "fund": "VOO*",
+      "paths": 10000,
+      "p05_cagr": -0.181740328055503,
+      "median_cagr": 0.1419840291034793,
+      "p95_cagr": 0.35078022890065097,
+      "loss_fraction": 0.161,
+      "ixn_beats_qqq_fraction": 0.4799
+    },
+    {
+      "calibration_window": "1990",
+      "horizon_years": 3,
+      "fund": "IXN*",
+      "paths": 10000,
+      "p05_cagr": -0.15674143570576965,
+      "median_cagr": 0.16791045957012707,
+      "p95_cagr": 0.4599340967702574,
+      "loss_fraction": 0.1821,
+      "ixn_beats_qqq_fraction": 0.4766
+    },
+    {
+      "calibration_window": "1990",
+      "horizon_years": 3,
+      "fund": "QQQ*",
+      "paths": 10000,
+      "p05_cagr": -0.15138322923396186,
+      "median_cagr": 0.17883444661674486,
+      "p95_cagr": 0.4217889882804828,
+      "loss_fraction": 0.1759,
+      "ixn_beats_qqq_fraction": 0.4766
+    },
+    {
+      "calibration_window": "1990",
+      "horizon_years": 3,
+      "fund": "VOO*",
+      "paths": 10000,
+      "p05_cagr": -0.06343497384647177,
+      "median_cagr": 0.12626684022451196,
+      "p95_cagr": 0.2596968028194503,
+      "loss_fraction": 0.1281,
+      "ixn_beats_qqq_fraction": 0.4766
+    },
+    {
+      "calibration_window": "1990",
+      "horizon_years": 5,
+      "fund": "IXN*",
+      "paths": 10000,
+      "p05_cagr": -0.07640091120657387,
+      "median_cagr": 0.1601649040217865,
+      "p95_cagr": 0.3972246900347153,
+      "loss_fraction": 0.1334,
+      "ixn_beats_qqq_fraction": 0.4903
+    },
+    {
+      "calibration_window": "1990",
+      "horizon_years": 5,
+      "fund": "QQQ*",
+      "paths": 10000,
+      "p05_cagr": -0.07344477725030006,
+      "median_cagr": 0.16587381896820164,
+      "p95_cagr": 0.36575565689594913,
+      "loss_fraction": 0.1238,
+      "ixn_beats_qqq_fraction": 0.4903
+    },
+    {
+      "calibration_window": "1990",
+      "horizon_years": 5,
+      "fund": "VOO*",
+      "paths": 10000,
+      "p05_cagr": -0.01904284796713235,
+      "median_cagr": 0.1168931000236042,
+      "p95_cagr": 0.22941264149592275,
+      "loss_fraction": 0.0798,
+      "ixn_beats_qqq_fraction": 0.4903
+    },
+    {
+      "calibration_window": "1990",
+      "horizon_years": 10,
+      "fund": "IXN*",
+      "paths": 10000,
+      "p05_cagr": -0.014283340498193733,
+      "median_cagr": 0.15418490001619256,
+      "p95_cagr": 0.3194611277604124,
+      "loss_fraction": 0.0643,
+      "ixn_beats_qqq_fraction": 0.4893
+    },
+    {
+      "calibration_window": "1990",
+      "horizon_years": 10,
+      "fund": "QQQ*",
+      "paths": 10000,
+      "p05_cagr": -0.010405987518075654,
+      "median_cagr": 0.15711527867545694,
+      "p95_cagr": 0.30587374973478065,
+      "loss_fraction": 0.0594,
+      "ixn_beats_qqq_fraction": 0.4893
+    },
+    {
+      "calibration_window": "1990",
+      "horizon_years": 10,
+      "fund": "VOO*",
+      "paths": 10000,
+      "p05_cagr": 0.020177783535887932,
+      "median_cagr": 0.11483403275405746,
+      "p95_cagr": 0.19740023048027758,
+      "loss_fraction": 0.0233,
+      "ixn_beats_qqq_fraction": 0.4893
+    },
+    {
+      "calibration_window": "2000",
+      "horizon_years": 1,
+      "fund": "IXN*",
+      "paths": 10000,
+      "p05_cagr": -0.3891644887953438,
+      "median_cagr": 0.12648992051537822,
+      "p95_cagr": 0.5034268302054696,
+      "loss_fraction": 0.2538,
+      "ixn_beats_qqq_fraction": 0.4354
+    },
+    {
+      "calibration_window": "2000",
+      "horizon_years": 1,
+      "fund": "QQQ*",
+      "paths": 10000,
+      "p05_cagr": -0.4004138680357102,
+      "median_cagr": 0.16483326318073988,
+      "p95_cagr": 0.4696866216983455,
+      "loss_fraction": 0.2064,
+      "ixn_beats_qqq_fraction": 0.4354
+    },
+    {
+      "calibration_window": "2000",
+      "horizon_years": 1,
+      "fund": "VOO*",
+      "paths": 10000,
+      "p05_cagr": -0.23040593522131803,
+      "median_cagr": 0.1313808382655266,
+      "p95_cagr": 0.32422024276348743,
+      "loss_fraction": 0.2231,
+      "ixn_beats_qqq_fraction": 0.4354
+    },
+    {
+      "calibration_window": "2000",
+      "horizon_years": 3,
+      "fund": "IXN*",
+      "paths": 10000,
+      "p05_cagr": -0.20514633082514905,
+      "median_cagr": 0.11045892527247014,
+      "p95_cagr": 0.33299827445950153,
+      "loss_fraction": 0.2708,
+      "ixn_beats_qqq_fraction": 0.3769
+    },
+    {
+      "calibration_window": "2000",
+      "horizon_years": 3,
+      "fund": "QQQ*",
+      "paths": 10000,
+      "p05_cagr": -0.19993541463096726,
+      "median_cagr": 0.12620170301913158,
+      "p95_cagr": 0.3273651537307191,
+      "loss_fraction": 0.261,
+      "ixn_beats_qqq_fraction": 0.3769
+    },
+    {
+      "calibration_window": "2000",
+      "horizon_years": 3,
+      "fund": "VOO*",
+      "paths": 10000,
+      "p05_cagr": -0.09151648193539512,
+      "median_cagr": 0.09827748455988339,
+      "p95_cagr": 0.23887938038760662,
+      "loss_fraction": 0.1914,
+      "ixn_beats_qqq_fraction": 0.3769
+    },
+    {
+      "calibration_window": "2000",
+      "horizon_years": 5,
+      "fund": "IXN*",
+      "paths": 10000,
+      "p05_cagr": -0.13441308999040188,
+      "median_cagr": 0.09903896969737835,
+      "p95_cagr": 0.2839115621127382,
+      "loss_fraction": 0.2383,
+      "ixn_beats_qqq_fraction": 0.3441
+    },
+    {
+      "calibration_window": "2000",
+      "horizon_years": 5,
+      "fund": "QQQ*",
+      "paths": 10000,
+      "p05_cagr": -0.12866877936180748,
+      "median_cagr": 0.10930802842469611,
+      "p95_cagr": 0.28500832190468817,
+      "loss_fraction": 0.2195,
+      "ixn_beats_qqq_fraction": 0.3441
+    },
+    {
+      "calibration_window": "2000",
+      "horizon_years": 5,
+      "fund": "VOO*",
+      "paths": 10000,
+      "p05_cagr": -0.04899841454804578,
+      "median_cagr": 0.09325767372105276,
+      "p95_cagr": 0.2092159504310544,
+      "loss_fraction": 0.1402,
+      "ixn_beats_qqq_fraction": 0.3441
+    },
+    {
+      "calibration_window": "2000",
+      "horizon_years": 10,
+      "fund": "IXN*",
+      "paths": 10000,
+      "p05_cagr": -0.07440555227828363,
+      "median_cagr": 0.0878154087274533,
+      "p95_cagr": 0.225403291940707,
+      "loss_fraction": 0.1854,
+      "ixn_beats_qqq_fraction": 0.3015
+    },
+    {
+      "calibration_window": "2000",
+      "horizon_years": 10,
+      "fund": "QQQ*",
+      "paths": 10000,
+      "p05_cagr": -0.06612815703963443,
+      "median_cagr": 0.095831499668389,
+      "p95_cagr": 0.2313987744817462,
+      "loss_fraction": 0.1632,
+      "ixn_beats_qqq_fraction": 0.3015
+    },
+    {
+      "calibration_window": "2000",
+      "horizon_years": 10,
+      "fund": "VOO*",
+      "paths": 10000,
+      "p05_cagr": -0.012854906234403546,
+      "median_cagr": 0.08749037482621713,
+      "p95_cagr": 0.17305756964478552,
+      "loss_fraction": 0.0755,
+      "ixn_beats_qqq_fraction": 0.3015
+    },
+    {
+      "calibration_window": "IXN inception",
+      "horizon_years": 1,
+      "fund": "IXN*",
+      "paths": 10000,
+      "p05_cagr": -0.2808752254880371,
+      "median_cagr": 0.15419670012927122,
+      "p95_cagr": 0.5226243539451298,
+      "loss_fraction": 0.196,
+      "ixn_beats_qqq_fraction": 0.4028
+    },
+    {
+      "calibration_window": "IXN inception",
+      "horizon_years": 1,
+      "fund": "QQQ*",
+      "paths": 10000,
+      "p05_cagr": -0.2706264498191586,
+      "median_cagr": 0.18985803928237743,
+      "p95_cagr": 0.4806146739096888,
+      "loss_fraction": 0.1471,
+      "ixn_beats_qqq_fraction": 0.4028
+    },
+    {
+      "calibration_window": "IXN inception",
+      "horizon_years": 1,
+      "fund": "VOO*",
+      "paths": 10000,
+      "p05_cagr": -0.21999337673172614,
+      "median_cagr": 0.1433154970281394,
+      "p95_cagr": 0.3382106842662693,
+      "loss_fraction": 0.1711,
+      "ixn_beats_qqq_fraction": 0.4028
+    },
+    {
+      "calibration_window": "IXN inception",
+      "horizon_years": 3,
+      "fund": "IXN*",
+      "paths": 10000,
+      "p05_cagr": -0.09158835660642299,
+      "median_cagr": 0.14757304773062618,
+      "p95_cagr": 0.35023678949578546,
+      "loss_fraction": 0.1444,
+      "ixn_beats_qqq_fraction": 0.3333
+    },
+    {
+      "calibration_window": "IXN inception",
+      "horizon_years": 3,
+      "fund": "QQQ*",
+      "paths": 10000,
+      "p05_cagr": -0.07070415193367564,
+      "median_cagr": 0.16430219820228698,
+      "p95_cagr": 0.3436043458131194,
+      "loss_fraction": 0.1262,
+      "ixn_beats_qqq_fraction": 0.3333
+    },
+    {
+      "calibration_window": "IXN inception",
+      "horizon_years": 3,
+      "fund": "VOO*",
+      "paths": 10000,
+      "p05_cagr": -0.07308727300778779,
+      "median_cagr": 0.12178785068533293,
+      "p95_cagr": 0.24793219984062514,
+      "loss_fraction": 0.1439,
+      "ixn_beats_qqq_fraction": 0.3333
+    },
+    {
+      "calibration_window": "IXN inception",
+      "horizon_years": 5,
+      "fund": "IXN*",
+      "paths": 10000,
+      "p05_cagr": -0.03569571188314977,
+      "median_cagr": 0.14016311709003826,
+      "p95_cagr": 0.29994336195719007,
+      "loss_fraction": 0.095,
+      "ixn_beats_qqq_fraction": 0.2943
+    },
+    {
+      "calibration_window": "IXN inception",
+      "horizon_years": 5,
+      "fund": "QQQ*",
+      "paths": 10000,
+      "p05_cagr": -0.018154499634690124,
+      "median_cagr": 0.15494369920951823,
+      "p95_cagr": 0.300179272394383,
+      "loss_fraction": 0.0712,
+      "ixn_beats_qqq_fraction": 0.2943
+    },
+    {
+      "calibration_window": "IXN inception",
+      "horizon_years": 5,
+      "fund": "VOO*",
+      "paths": 10000,
+      "p05_cagr": -0.03074342041757707,
+      "median_cagr": 0.11518672058368773,
+      "p95_cagr": 0.22010329033015313,
+      "loss_fraction": 0.0907,
+      "ixn_beats_qqq_fraction": 0.2943
+    },
+    {
+      "calibration_window": "IXN inception",
+      "horizon_years": 10,
+      "fund": "IXN*",
+      "paths": 10000,
+      "p05_cagr": 0.014504837583880593,
+      "median_cagr": 0.13729258224139496,
+      "p95_cagr": 0.25131441741626315,
+      "loss_fraction": 0.0342,
+      "ixn_beats_qqq_fraction": 0.2281
+    },
+    {
+      "calibration_window": "IXN inception",
+      "horizon_years": 10,
+      "fund": "QQQ*",
+      "paths": 10000,
+      "p05_cagr": 0.0312928255832433,
+      "median_cagr": 0.14990257701901766,
+      "p95_cagr": 0.25505274296058583,
+      "loss_fraction": 0.0214,
+      "ixn_beats_qqq_fraction": 0.2281
+    },
+    {
+      "calibration_window": "IXN inception",
+      "horizon_years": 10,
+      "fund": "VOO*",
+      "paths": 10000,
+      "p05_cagr": 0.01070200940864732,
+      "median_cagr": 0.10889564050751388,
+      "p95_cagr": 0.1881620460144983,
+      "loss_fraction": 0.0349,
+      "ixn_beats_qqq_fraction": 0.2281
+    },
+    {
+      "calibration_window": "2010",
+      "horizon_years": 1,
+      "fund": "IXN*",
+      "paths": 10000,
+      "p05_cagr": -0.1064214843336948,
+      "median_cagr": 0.20578710329800476,
+      "p95_cagr": 0.47627621194626824,
+      "loss_fraction": 0.1195,
+      "ixn_beats_qqq_fraction": 0.4533
+    },
+    {
+      "calibration_window": "2010",
+      "horizon_years": 1,
+      "fund": "QQQ*",
+      "paths": 10000,
+      "p05_cagr": -0.12989948559891062,
+      "median_cagr": 0.21793240500361244,
+      "p95_cagr": 0.44100392759905493,
+      "loss_fraction": 0.0835,
+      "ixn_beats_qqq_fraction": 0.4533
+    },
+    {
+      "calibration_window": "2010",
+      "horizon_years": 1,
+      "fund": "VOO*",
+      "paths": 10000,
+      "p05_cagr": -0.06961929091269059,
+      "median_cagr": 0.16207462715457632,
+      "p95_cagr": 0.32386492973614645,
+      "loss_fraction": 0.1026,
+      "ixn_beats_qqq_fraction": 0.4533
+    },
+    {
+      "calibration_window": "2010",
+      "horizon_years": 3,
+      "fund": "IXN*",
+      "paths": 10000,
+      "p05_cagr": 0.019494229793780918,
+      "median_cagr": 0.19467784199556626,
+      "p95_cagr": 0.36368185487844396,
+      "loss_fraction": 0.0352,
+      "ixn_beats_qqq_fraction": 0.4281
+    },
+    {
+      "calibration_window": "2010",
+      "horizon_years": 3,
+      "fund": "QQQ*",
+      "paths": 10000,
+      "p05_cagr": 0.022906899724798098,
+      "median_cagr": 0.20459953034259726,
+      "p95_cagr": 0.3470792163480066,
+      "loss_fraction": 0.0331,
+      "ixn_beats_qqq_fraction": 0.4281
+    },
+    {
+      "calibration_window": "2010",
+      "horizon_years": 3,
+      "fund": "VOO*",
+      "paths": 10000,
+      "p05_cagr": 0.031743843269402355,
+      "median_cagr": 0.1492342257802195,
+      "p95_cagr": 0.25673147060136414,
+      "loss_fraction": 0.019,
+      "ixn_beats_qqq_fraction": 0.4281
+    },
+    {
+      "calibration_window": "2010",
+      "horizon_years": 5,
+      "fund": "IXN*",
+      "paths": 10000,
+      "p05_cagr": 0.05588568211291163,
+      "median_cagr": 0.19076513148625251,
+      "p95_cagr": 0.3232446294647861,
+      "loss_fraction": 0.0096,
+      "ixn_beats_qqq_fraction": 0.4094
+    },
+    {
+      "calibration_window": "2010",
+      "horizon_years": 5,
+      "fund": "QQQ*",
+      "paths": 10000,
+      "p05_cagr": 0.06118385576614375,
+      "median_cagr": 0.19969446252452783,
+      "p95_cagr": 0.31256914376686934,
+      "loss_fraction": 0.0107,
+      "ixn_beats_qqq_fraction": 0.4094
+    },
+    {
+      "calibration_window": "2010",
+      "horizon_years": 5,
+      "fund": "VOO*",
+      "paths": 10000,
+      "p05_cagr": 0.05628747945519276,
+      "median_cagr": 0.1468233610675196,
+      "p95_cagr": 0.23261220750603995,
+      "loss_fraction": 0.0027,
+      "ixn_beats_qqq_fraction": 0.4094
+    },
+    {
+      "calibration_window": "2010",
+      "horizon_years": 10,
+      "fund": "IXN*",
+      "paths": 10000,
+      "p05_cagr": 0.09207186274270072,
+      "median_cagr": 0.19038497521286024,
+      "p95_cagr": 0.2847999516464653,
+      "loss_fraction": 0.0003,
+      "ixn_beats_qqq_fraction": 0.396
+    },
+    {
+      "calibration_window": "2010",
+      "horizon_years": 10,
+      "fund": "QQQ*",
+      "paths": 10000,
+      "p05_cagr": 0.0985044330407164,
+      "median_cagr": 0.19665617032048477,
+      "p95_cagr": 0.2806134478536454,
+      "loss_fraction": 0.0005,
+      "ixn_beats_qqq_fraction": 0.396
+    },
+    {
+      "calibration_window": "2010",
+      "horizon_years": 10,
+      "fund": "VOO*",
+      "paths": 10000,
+      "p05_cagr": 0.08124833959514925,
+      "median_cagr": 0.14587951442839908,
+      "p95_cagr": 0.20688241781297392,
+      "loss_fraction": 0.0,
+      "ixn_beats_qqq_fraction": 0.396
+    }
+  ],
+  "fees": [
+    {
+      "years": 1,
+      "fund": "IXN",
+      "fee": 0.0037,
+      "annual_gross_assumption": 0.08,
+      "ending_100000": 107600.4,
+      "loss_vs_no_fee": 399.6000000000058
+    },
+    {
+      "years": 1,
+      "fund": "QQQ",
+      "fee": 0.0018,
+      "annual_gross_assumption": 0.08,
+      "ending_100000": 107805.6,
+      "loss_vs_no_fee": 194.39999999999418
+    },
+    {
+      "years": 1,
+      "fund": "VOO",
+      "fee": 0.0003,
+      "annual_gross_assumption": 0.08,
+      "ending_100000": 107967.6,
+      "loss_vs_no_fee": 32.39999999999418
+    },
+    {
+      "years": 1,
+      "fund": "QQQM",
+      "fee": 0.0015,
+      "annual_gross_assumption": 0.08,
+      "ending_100000": 107838.00000000001,
+      "loss_vs_no_fee": 161.99999999998545
+    },
+    {
+      "years": 3,
+      "fund": "IXN",
+      "fee": 0.0037,
+      "annual_gross_assumption": 0.08,
+      "ending_100000": 124578.08693636478,
+      "loss_vs_no_fee": 1393.1130636352318
+    },
+    {
+      "years": 3,
+      "fund": "QQQ",
+      "fee": 0.0018,
+      "annual_gross_assumption": 0.08,
+      "ending_100000": 125292.17922540002,
+      "loss_vs_no_fee": 679.0207745999942
+    },
+    {
+      "years": 3,
+      "fund": "VOO",
+      "fee": 0.0003,
+      "annual_gross_assumption": 0.08,
+      "ending_100000": 125857.85992882281,
+      "loss_vs_no_fee": 113.34007117719739
+    },
+    {
+      "years": 3,
+      "fund": "QQQM",
+      "fee": 0.0015,
+      "annual_gross_assumption": 0.08,
+      "ending_100000": 125405.17948044724,
+      "loss_vs_no_fee": 566.0205195527669
+    },
+    {
+      "years": 5,
+      "fund": "IXN",
+      "fee": 0.0037,
+      "annual_gross_assumption": 0.08,
+      "ending_100000": 144234.59155100226,
+      "loss_vs_no_fee": 2698.2161289977957
+    },
+    {
+      "years": 5,
+      "fund": "QQQ",
+      "fee": 0.0018,
+      "annual_gross_assumption": 0.08,
+      "ending_100000": 145615.164472437,
+      "loss_vs_no_fee": 1317.6432075630582
+    },
+    {
+      "years": 5,
+      "fund": "VOO",
+      "fee": 0.0003,
+      "annual_gross_assumption": 0.08,
+      "ending_100000": 146712.54066834104,
+      "loss_vs_no_fee": 220.26701165901613
+    },
+    {
+      "years": 5,
+      "fund": "QQQM",
+      "fee": 0.0015,
+      "annual_gross_assumption": 0.08,
+      "ending_100000": 145834.11265530874,
+      "loss_vs_no_fee": 1098.6950246913184
+    },
+    {
+      "years": 10,
+      "fund": "IXN",
+      "fee": 0.0037,
+      "annual_gross_assumption": 0.08,
+      "ending_100000": 208036.17399884455,
+      "loss_vs_no_fee": 7856.3257284342835
+    },
+    {
+      "years": 10,
+      "fund": "QQQ",
+      "fee": 0.0018,
+      "annual_gross_assumption": 0.08,
+      "ending_100000": 212037.7612433488,
+      "loss_vs_no_fee": 3854.7384839300357
+    },
+    {
+      "years": 10,
+      "fund": "VOO",
+      "fee": 0.0003,
+      "annual_gross_assumption": 0.08,
+      "ending_100000": 215245.6958935963,
+      "loss_vs_no_fee": 646.8038336825266
+    },
+    {
+      "years": 10,
+      "fund": "QQQM",
+      "fee": 0.0015,
+      "annual_gross_assumption": 0.08,
+      "ending_100000": 212675.8841396128,
+      "loss_vs_no_fee": 3216.6155876660196
+    }
+  ]
+}

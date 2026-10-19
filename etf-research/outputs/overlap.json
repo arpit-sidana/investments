@@ -1,0 +1,10 @@
+{
+  "QQQ": {
+    "weighted_overlap": 0.5295328836297174,
+    "ixn_weight_in_common_names": 0.7087008821170808
+  },
+  "VOO": {
+    "weighted_overlap": 0.39718366124038745,
+    "ixn_weight_in_common_names": 0.7715517241379308
+  }
+}

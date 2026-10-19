@@ -1,0 +1,102 @@
+ticker,issuer,weight
+NVDA,NVIDIA Corp,0.08153006
+AAPL,Apple Inc,0.07919156
+MSFT,Microsoft Corp,0.062063499999999994
+MU,Micron Technology Inc,0.04329505
+AMZN,Amazon.com Inc,0.04259958
+AMD,Advanced Micro Devices Inc,0.03764496
+META,Meta Platforms Inc,0.03332076
+GOOGL,Alphabet Inc,0.03157287
+TSLA,Tesla Inc,0.029437989999999997
+GOOG,Alphabet Inc,0.02941682
+SPCX,Space Exploration Technologies Corp,0.02732093
+WMT,Walmart Inc,0.02519968
+AVGO,Broadcom Inc,0.02470835
+INTC,Intel Corp,0.020590229999999998
+COST,Costco Wholesale Corp,0.01913131
+PLTR,Palantir Technologies Inc,0.0186667
+CSCO,Cisco Systems Inc,0.01853272
+LRCX,Lam Research Corp,0.014404539999999999
+AMAT,Applied Materials Inc,0.01416637
+NFLX,Netflix Inc,0.01280936
+PANW,Palo Alto Networks Inc,0.01215694
+TXN,Texas Instruments Inc,0.01101291
+AMGN,Amgen Inc,0.01019805
+CRWD,Crowdstrike Holdings Inc,0.01015526
+LIN,Linde PLC,0.0100214
+KLAC,KLA Corp,0.00944495
+SHOP,Shopify Inc,0.00893596
+MRVL,Marvell Technology Inc,0.00871618
+GILD,Gilead Sciences Inc,0.00844671
+ADI,Analog Devices Inc,0.00835758
+SNDK,Sandisk Corp,0.00829734
+QCOM,QUALCOMM Inc,0.00788371
+PEP,PepsiCo Inc,0.0078264
+TMUS,T-Mobile US Inc,0.00744329
+ASML,ASML Holding NV,0.00673103
+ISRG,Intuitive Surgical Inc,0.00657478
+STX,Seagate Technology Holdings PLC,0.00631667
+VRTX,Vertex Pharmaceuticals Inc,0.00552364
+FTNT,Fortinet Inc,0.0054115000000000005
+BKNG,Booking Holdings Inc,0.005355680000000001
+WDC,Western Digital Corp,0.0052198999999999995
+ADP,Automatic Data Processing Inc,0.0050049
+SBUX,Starbucks Corp,0.00484808
+MAR,Marriott International Inc/MD,0.00441272
+ARM,ARM Holdings PLC,0.00433235
+ADBE,Adobe Inc,0.00425037
+CEG,Constellation Energy Corp,0.00419344
+MELI,MercadoLibre Inc,0.00405476
+CSX,CSX Corp,0.00393254
+MNST,Monster Beverage Corp,0.00390071
+INTU,Intuit Inc,0.00387855
+CDNS,Cadence Design Systems Inc,0.00383714
+SNPS,Synopsys Inc,0.00379931
+MRNA,Moderna Inc,0.00379591
+CTAS,Cintas Corp,0.00372908
+DDOG,Datadog Inc,0.00360895
+MDLZ,Mondelez International Inc,0.00355709
+APP,AppLovin Corp,0.00353321
+REGN,Regeneron Pharmaceuticals Inc,0.00348754
+CMCSA,Comcast Corp,0.00343072
+DASH,DoorDash Inc,0.00337432
+ROST,Ross Stores Inc,0.0033137899999999996
+LITE,Lumentum Holdings Inc,0.0032237100000000003
+ABNB,Airbnb Inc,0.0031778600000000002
+ORLY,O'Reilly Automotive Inc,0.00314922
+AEP,American Electric Power Co Inc,0.0030188100000000002
+HON,Honeywell International Inc,0.0029219299999999997
+MPWR,Monolithic Power Systems Inc,0.002595
+FAST,Fastenal Co,0.0025531900000000003
+PCAR,PACCAR Inc,0.0025438
+NXPI,NXP Semiconductors NV,0.00252194
+FANG,Diamondback Energy Inc,0.00249054
+BKR,Baker Hughes Co,0.0024113
+PDD,PDD Holdings Inc,0.00235848
+HONA,Honeywell Aerospace Inc,0.0023224400000000003
+TER,Teradyne Inc,0.0022158300000000002
+ADSK,Autodesk Inc,0.00218584
+MSTR,Strategy Inc,0.00217556
+ALAB,Astera Labs Inc,0.00216241
+CCEP,Coca-Cola Europacific Partners PLC,0.00213175
+PYPL,PayPal Holdings Inc,0.00211458
+XEL,Xcel Energy Inc,0.00209497
+KDP,Keurig Dr Pepper Inc,0.0020538500000000003
+EXC,Exelon Corp,0.00195756
+IDXX,IDEXX Laboratories Inc,0.00192455
+TRI,Thomson Reuters Corp,0.00179068
+MCHP,Microchip Technology Inc,0.00174822
+PAYX,Paychex Inc,0.00173096
+NBIS,Nebius Group NV,0.0017212
+ODFL,Old Dominion Freight Line Inc,0.0016969600000000002
+TTWO,Take-Two Interactive Software Inc,0.0016733400000000002
+ROP,Roper Technologies Inc,0.00165403
+WDAY,Workday Inc,0.0016304199999999998
+FER,Ferrovial NV,0.00157149
+DXCM,Dexcom Inc,0.00141545
+AXON,Axon Enterprise Inc,0.00138224
+GEHC,GE HealthCare Technologies Inc,0.00136993
+ALNY,Alnylam Pharmaceuticals Inc,0.00135238
+RKLB,Rocket Lab Corp,0.00132642
+CRWV,CoreWeave Inc,0.00122872
+CPRT,Copart Inc,0.00112486
