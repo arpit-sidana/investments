@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 583" role="img" aria-labelledby="title desc">
+<title id="title">2023 USD price returns (%): SOL led the recovery</title>
+<desc id="desc">Calendar 2023 • USD price only • Excludes staking, trading costs and tax.</desc>
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="Arial, sans-serif" fill="#172735">
+<text x="28" y="34" font-size="23" font-weight="bold">2023 USD price returns (%): SOL led the recovery</text>
+<path d="M 355.00 125 V 465" stroke="#e2e6ea"/><text x="355.00" y="493" font-size="17" text-anchor="middle">0</text>
+<path d="M 493.75 125 V 465" stroke="#e2e6ea"/><text x="493.75" y="493" font-size="17" text-anchor="middle">271</text>
+<path d="M 632.50 125 V 465" stroke="#e2e6ea"/><text x="632.50" y="493" font-size="17" text-anchor="middle">541</text>
+<path d="M 771.25 125 V 465" stroke="#e2e6ea"/><text x="771.25" y="493" font-size="17" text-anchor="middle">812</text>
+<path d="M 910.00 125 V 465" stroke="#e2e6ea"/><text x="910.00" y="493" font-size="17" text-anchor="middle">1,082</text>
+<path d="M 355.00 125 V 465" stroke="#52636f"/>
+<text x="335" y="168.00" font-size="18" text-anchor="end">SOL</text>
+<rect x="355.00" y="148.50" width="470.34" height="21" fill="#235785"/>
+<text x="832.34" y="165.50" font-size="18" text-anchor="start">917.3</text>
+<text x="335" y="234.00" font-size="18" text-anchor="end">BTC</text>
+<rect x="355.00" y="214.50" width="79.48" height="21" fill="#235785"/>
+<text x="441.48" y="231.50" font-size="18" text-anchor="start">155.0</text>
+<text x="335" y="300.00" font-size="18" text-anchor="end">ETH</text>
+<rect x="355.00" y="280.50" width="46.66" height="21" fill="#235785"/>
+<text x="408.66" y="297.50" font-size="18" text-anchor="start">91.0</text>
+<text x="335" y="366.00" font-size="18" text-anchor="end">XRP</text>
+<rect x="355.00" y="346.50" width="41.02" height="21" fill="#235785"/>
+<text x="403.02" y="363.50" font-size="18" text-anchor="start">80.0</text>
+<text x="335" y="432.00" font-size="18" text-anchor="end">BNB</text>
+<rect x="355.00" y="412.50" width="13.84" height="21" fill="#235785"/>
+<text x="375.84" y="429.50" font-size="18" text-anchor="start">27.0</text>
+<text x="632.5" y="522" font-size="18" text-anchor="middle">Price return (%)</text>
+<text x="28" y="557" font-size="17" fill="#495d6a">Calendar 2023 • USD price only • Excludes staking, trading costs and tax.</text>
+</g></svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 385" role="img" aria-labelledby="title desc">
+<title id="title">Coinbase’s stablecoin revenue fell despite the adoption narrative</title>
+<desc id="desc">Q2 2026 versus restated Q2 2025 • Excludes corporate stablecoin-balance income in both periods.</desc>
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="Arial, sans-serif" fill="#172735">
+<text x="28" y="34" font-size="23" font-weight="bold">Coinbase’s stablecoin revenue fell despite the adoption narrative</text>
+<path d="M 355.00 125 V 267" stroke="#e2e6ea"/><text x="355.00" y="295" font-size="17" text-anchor="middle">0</text>
+<path d="M 493.75 125 V 267" stroke="#e2e6ea"/><text x="493.75" y="295" font-size="17" text-anchor="middle">91</text>
+<path d="M 632.50 125 V 267" stroke="#e2e6ea"/><text x="632.50" y="295" font-size="17" text-anchor="middle">182</text>
+<path d="M 771.25 125 V 267" stroke="#e2e6ea"/><text x="771.25" y="295" font-size="17" text-anchor="middle">273</text>
+<path d="M 910.00 125 V 267" stroke="#e2e6ea"/><text x="910.00" y="295" font-size="17" text-anchor="middle">365</text>
+<path d="M 355.00 125 V 267" stroke="#52636f"/>
+<text x="335" y="168.00" font-size="18" text-anchor="end">Q2 2025 restated</text>
+<rect x="355.00" y="148.50" width="470.34" height="21" fill="#235785"/>
+<text x="832.34" y="165.50" font-size="18" text-anchor="start">308.9</text>
+<text x="335" y="234.00" font-size="18" text-anchor="end">Q2 2026</text>
+<rect x="355.00" y="214.50" width="444.81" height="21" fill="#235785"/>
+<text x="806.81" y="231.50" font-size="18" text-anchor="start">292.1</text>
+<text x="632.5" y="324" font-size="18" text-anchor="middle">USD millions</text>
+<text x="28" y="359" font-size="17" fill="#495d6a">Q2 2026 versus restated Q2 2025 • Excludes corporate stablecoin-balance income in both periods.</text>
+</g></svg>

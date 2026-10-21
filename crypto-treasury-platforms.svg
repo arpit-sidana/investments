@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 583" role="img" aria-labelledby="title desc">
+<title id="title">Selected tokenized Treasury platforms: assets (USD billions)</title>
+<desc id="desc">RWA.xyz • Oct 19, 2026 • Selected platforms; not the complete market total.</desc>
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="Arial, sans-serif" fill="#172735">
+<text x="28" y="34" font-size="23" font-weight="bold">Selected tokenized Treasury platforms: assets (USD billions)</text>
+<path d="M 355.00 125 V 465" stroke="#e2e6ea"/><text x="355.00" y="493" font-size="17" text-anchor="middle">0</text>
+<path d="M 493.75 125 V 465" stroke="#e2e6ea"/><text x="493.75" y="493" font-size="17" text-anchor="middle">1</text>
+<path d="M 632.50 125 V 465" stroke="#e2e6ea"/><text x="632.50" y="493" font-size="17" text-anchor="middle">2</text>
+<path d="M 771.25 125 V 465" stroke="#e2e6ea"/><text x="771.25" y="493" font-size="17" text-anchor="middle">3</text>
+<path d="M 910.00 125 V 465" stroke="#e2e6ea"/><text x="910.00" y="493" font-size="17" text-anchor="middle">4</text>
+<path d="M 355.00 125 V 465" stroke="#52636f"/>
+<text x="335" y="168.00" font-size="18" text-anchor="end">Ondo</text>
+<rect x="355.00" y="148.50" width="470.34" height="21" fill="#235785"/>
+<text x="832.34" y="165.50" font-size="18" text-anchor="start">3.0</text>
+<text x="335" y="234.00" font-size="18" text-anchor="end">Franklin Benji</text>
+<rect x="355.00" y="214.50" width="391.95" height="21" fill="#235785"/>
+<text x="753.95" y="231.50" font-size="18" text-anchor="start">2.5</text>
+<text x="335" y="300.00" font-size="18" text-anchor="end">Circle</text>
+<rect x="355.00" y="280.50" width="376.27" height="21" fill="#235785"/>
+<text x="738.27" y="297.50" font-size="18" text-anchor="start">2.4</text>
+<text x="335" y="366.00" font-size="18" text-anchor="end">Securitize</text>
+<rect x="355.00" y="346.50" width="360.59" height="21" fill="#235785"/>
+<text x="722.59" y="363.50" font-size="18" text-anchor="start">2.3</text>
+<text x="335" y="432.00" font-size="18" text-anchor="end">WisdomTree</text>
+<rect x="355.00" y="412.50" width="172.46" height="21" fill="#235785"/>
+<text x="534.46" y="429.50" font-size="18" text-anchor="start">1.1</text>
+<text x="632.5" y="522" font-size="18" text-anchor="middle">USD billions</text>
+<text x="28" y="557" font-size="17" fill="#495d6a">RWA.xyz • Oct 19, 2026 • Selected platforms; not the complete market total.</text>
+</g></svg>

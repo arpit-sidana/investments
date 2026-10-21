@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 804" role="img" aria-labelledby="title desc">
+<title id="title">Ethereum and Solana lead the selected core-repository comparison</title>
+<desc id="desc">All-time contributors • Oct 19, 2026 • Core/foundation organizations only. Excludes application developers; ecosystems overlap.</desc>
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="Arial, sans-serif" fill="#172735">
+<text x="28" y="34" font-size="23" font-weight="bold">Ethereum and Solana lead the selected core-repository comparison</text>
+<path d="M 355.00 125 V 663" stroke="#e2e6ea"/><text x="355.00" y="691" font-size="17" text-anchor="middle">0</text>
+<path d="M 493.75 125 V 663" stroke="#e2e6ea"/><text x="493.75" y="691" font-size="17" text-anchor="middle">3,619</text>
+<path d="M 632.50 125 V 663" stroke="#e2e6ea"/><text x="632.50" y="691" font-size="17" text-anchor="middle">7,238</text>
+<path d="M 771.25 125 V 663" stroke="#e2e6ea"/><text x="771.25" y="691" font-size="17" text-anchor="middle">10,857</text>
+<path d="M 910.00 125 V 663" stroke="#e2e6ea"/><text x="910.00" y="691" font-size="17" text-anchor="middle">14,476</text>
+<path d="M 355.00 125 V 663" stroke="#52636f"/>
+<text x="335" y="168.00" font-size="18" text-anchor="end">Ethereum</text>
+<rect x="355.00" y="148.50" width="470.34" height="21" fill="#235785"/>
+<text x="832.34" y="165.50" font-size="18" text-anchor="start">12,268</text>
+<text x="335" y="234.00" font-size="18" text-anchor="end">Solana</text>
+<rect x="355.00" y="214.50" width="419.77" height="21" fill="#235785"/>
+<text x="781.77" y="231.50" font-size="18" text-anchor="start">10,949</text>
+<text x="335" y="300.00" font-size="18" text-anchor="end">BNB Chain</text>
+<rect x="355.00" y="280.50" width="157.65" height="21" fill="#235785"/>
+<text x="519.65" y="297.50" font-size="18" text-anchor="start">4,112</text>
+<text x="335" y="366.00" font-size="18" text-anchor="end">Optimism</text>
+<rect x="355.00" y="346.50" width="132.73" height="21" fill="#235785"/>
+<text x="494.73" y="363.50" font-size="18" text-anchor="start">3,462</text>
+<text x="335" y="432.00" font-size="18" text-anchor="end">Arbitrum</text>
+<rect x="355.00" y="412.50" width="95.19" height="21" fill="#235785"/>
+<text x="457.19" y="429.50" font-size="18" text-anchor="start">2,483</text>
+<text x="335" y="498.00" font-size="18" text-anchor="end">Bitcoin</text>
+<rect x="355.00" y="478.50" width="78.48" height="21" fill="#235785"/>
+<text x="440.48" y="495.50" font-size="18" text-anchor="start">2,047</text>
+<text x="335" y="564.00" font-size="18" text-anchor="end">Base</text>
+<rect x="355.00" y="544.50" width="57.62" height="21" fill="#235785"/>
+<text x="419.62" y="561.50" font-size="18" text-anchor="start">1,503</text>
+<text x="335" y="630.00" font-size="18" text-anchor="end">Sui</text>
+<rect x="355.00" y="610.50" width="57.62" height="21" fill="#235785"/>
+<text x="419.62" y="627.50" font-size="18" text-anchor="start">1,503</text>
+<text x="632.5" y="720" font-size="18" text-anchor="middle">All-time contributors</text>
+<text x="28" y="755" font-size="17" fill="#495d6a">All-time contributors • Oct 19, 2026 • Core/foundation organizations only. Excludes application</text>
+<text x="28" y="778" font-size="17" fill="#495d6a">developers; ecosystems overlap.</text>
+</g></svg>

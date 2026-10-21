@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 480" role="img" aria-labelledby="title desc">
+<title id="title">HYPE revenue multiples (×): circulating versus diluted value</title>
+<desc id="desc">Analyst scenarios • 30-day revenue × 365/30; hold cap constant. Not P/E, price forecasts or promised returns.</desc>
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="Arial, sans-serif" fill="#172735">
+<text x="28" y="34" font-size="23" font-weight="bold">HYPE revenue multiples (×): circulating versus diluted value</text>
+<rect x="30" y="95" width="18" height="18" fill="#235785"/><text x="57" y="110" font-size="18">Circulating cap / revenue</text>
+<rect x="460" y="95" width="18" height="18" fill="#C18A24"/><text x="487" y="110" font-size="18">FDV / revenue</text>
+<path d="M 355.00 125 V 339" stroke="#e2e6ea"/><text x="355.00" y="367" font-size="17" text-anchor="middle">0</text>
+<path d="M 493.75 125 V 339" stroke="#e2e6ea"/><text x="493.75" y="367" font-size="17" text-anchor="middle">53</text>
+<path d="M 632.50 125 V 339" stroke="#e2e6ea"/><text x="632.50" y="367" font-size="17" text-anchor="middle">107</text>
+<path d="M 771.25 125 V 339" stroke="#e2e6ea"/><text x="771.25" y="367" font-size="17" text-anchor="middle">160</text>
+<path d="M 910.00 125 V 339" stroke="#e2e6ea"/><text x="910.00" y="367" font-size="17" text-anchor="middle">214</text>
+<path d="M 355.00 125 V 339" stroke="#52636f"/>
+<text x="335" y="169.00" font-size="18" text-anchor="end">50% below run rate</text>
+<rect x="355.00" y="137.00" width="109.52" height="21" fill="#235785"/>
+<text x="471.52" y="154.00" font-size="18" text-anchor="start">42.2</text>
+<rect x="355.00" y="165.00" width="470.34" height="21" fill="#C18A24"/>
+<text x="832.34" y="182.00" font-size="18" text-anchor="start">181.0</text>
+<text x="335" y="237.00" font-size="18" text-anchor="end">Current run rate</text>
+<rect x="355.00" y="205.00" width="54.76" height="21" fill="#235785"/>
+<text x="416.76" y="222.00" font-size="18" text-anchor="start">21.1</text>
+<rect x="355.00" y="233.00" width="235.17" height="21" fill="#C18A24"/>
+<text x="597.17" y="250.00" font-size="18" text-anchor="start">90.5</text>
+<text x="335" y="305.00" font-size="18" text-anchor="end">50% above run rate</text>
+<rect x="355.00" y="273.00" width="36.51" height="21" fill="#235785"/>
+<text x="398.51" y="290.00" font-size="18" text-anchor="start">14.1</text>
+<rect x="355.00" y="301.00" width="156.78" height="21" fill="#C18A24"/>
+<text x="518.78" y="318.00" font-size="18" text-anchor="start">60.3</text>
+<text x="632.5" y="396" font-size="18" text-anchor="middle">Revenue multiple (×)</text>
+<text x="28" y="431" font-size="17" fill="#495d6a">Analyst scenarios • 30-day revenue × 365/30; hold cap constant. Not P/E, price forecasts or promised</text>
+<text x="28" y="454" font-size="17" fill="#495d6a">returns.</text>
+</g></svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 451" role="img" aria-labelledby="title desc">
+<title id="title">Stablecoin supply rose sharply in 2025 and later leveled off</title>
+<desc id="desc">Selected DefiLlama snapshots • Approximate dates as reported; not a continuous daily trend.</desc>
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="Arial, sans-serif" fill="#172735">
+<text x="28" y="34" font-size="23" font-weight="bold">Stablecoin supply rose sharply in 2025 and later leveled off</text>
+<path d="M 355.00 125 V 333" stroke="#e2e6ea"/><text x="355.00" y="361" font-size="17" text-anchor="middle">0</text>
+<path d="M 493.75 125 V 333" stroke="#e2e6ea"/><text x="493.75" y="361" font-size="17" text-anchor="middle">90</text>
+<path d="M 632.50 125 V 333" stroke="#e2e6ea"/><text x="632.50" y="361" font-size="17" text-anchor="middle">180</text>
+<path d="M 771.25 125 V 333" stroke="#e2e6ea"/><text x="771.25" y="361" font-size="17" text-anchor="middle">270</text>
+<path d="M 910.00 125 V 333" stroke="#e2e6ea"/><text x="910.00" y="361" font-size="17" text-anchor="middle">360</text>
+<path d="M 355.00 125 V 333" stroke="#52636f"/>
+<text x="335" y="168.00" font-size="18" text-anchor="end">Start 2025</text>
+<rect x="355.00" y="148.50" width="314.59" height="21" fill="#235785"/>
+<text x="676.59" y="165.50" font-size="18" text-anchor="start">204.00</text>
+<text x="335" y="234.00" font-size="18" text-anchor="end">Early Dec 2025</text>
+<rect x="355.00" y="214.50" width="470.34" height="21" fill="#235785"/>
+<text x="832.34" y="231.50" font-size="18" text-anchor="start">305.00</text>
+<text x="335" y="300.00" font-size="18" text-anchor="end">Oct 19, 2026</text>
+<rect x="355.00" y="280.50" width="466.24" height="21" fill="#235785"/>
+<text x="828.24" y="297.50" font-size="18" text-anchor="start">302.34</text>
+<text x="632.5" y="390" font-size="18" text-anchor="middle">USD billions</text>
+<text x="28" y="425" font-size="17" fill="#495d6a">Selected DefiLlama snapshots • Approximate dates as reported; not a continuous daily trend.</text>
+</g></svg>
