@@ -1,4 +1,33 @@
 .DS_Store
+# Investment research delivery: commit reports and source, not generated app output.
+**/dist/
+**/.openai/
+**/.vite/
+**/*.log
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+# Archive authored report content/data, not the generated Data app framework.
+/ai-equities-2027-report/*
+!/ai-equities-2027-report/src/
+/ai-equities-2027-report/src/*
+!/ai-equities-2027-report/src/data.json
+!/ai-equities-2027-report/src/content/
+/ai-equities-2027-report/src/content/*
+!/ai-equities-2027-report/src/content/report/
+/glean-investment-report/*
+!/glean-investment-report/src/
+/glean-investment-report/src/*
+!/glean-investment-report/src/data.json
+!/glean-investment-report/src/content/
+/glean-investment-report/src/content/*
+!/glean-investment-report/src/content/report/
+# Unused scaffold sample content.
+/ai-equities-2027-report/src/content/report/adoption-brief.js
+/glean-investment-report/src/content/report/adoption-brief.js
 **/__pycache__/
 **/node_modules/
 **/.data-app-offline/

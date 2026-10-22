@@ -1,36 +1,50 @@
 # Investments
 
-Dated investment research, with browser reports, calculation code and versioned evidence.
+Dated investment research, readable directly in GitHub on a phone. **Markdown is the default delivery format.** Reports are static editions; prices and conclusions do not update automatically.
 
-## IXN vs QQQ vs VOO — October 19, 2026
+## Read the reports
 
-**[Read the interactive report](https://arpit-sidana.github.io/investments/reports/ixn-qqq-voo-2026-10-19/)**
+| Research | Date | Reading copy |
+| --- | --- | --- |
+| AI equities through end-2027: 25 companies, K-shaped economy, agents, infrastructure and a $100k scenario portfolio | October 22, 2026; October 16 entry prices | [Full report](research-reports/ai-equities-2027-2026-10-22/REPORT.md) |
+| Crypto State of the Union: applications, protocols, economics and risks | October 19, 2026 | [Full report](CRYPTO_REPORT.md) |
+| IXN vs QQQ vs VOO: performance, risk, diversification and AI outlook | October 19, 2026 | [Full report](reports/ixn-qqq-voo/REPORT.md) |
 
-- [Read the report directly on GitHub](reports/ixn-qqq-voo/REPORT.md)
-- [Download the self-contained HTML](https://arpit-sidana.github.io/investments/downloads/ixn-qqq-voo-2026-10-19.html) — save it to read locally without a server
-- [Methods and limitations](etf-research/outputs/METHODS.md)
-- [Executed calculation notebook](etf-research/outputs/etf-comparison.ipynb)
-- [Full-precision calculation outputs](etf-research/outputs)
-- [Calculation source](etf-research/analyze.py) and [source retrieval log](etf-research/sources/fetch_log.json)
+The AI report includes all 25 company analyses, 75 bear/base/bull price scenarios, valuation assumptions, catalysts, portfolio weights, stress cases and linked sources. [Source index](ai-equities-source-index.md) · [Model inputs](ai-equities-model.json).
 
-The comparison covers IXN inception, January 1990, January 2000 and January 2010 through October 19, 2026; historical risk; current-weight TSMC/ASML removal; synthetic stock-count diversification; historical resampling; fundamentals, technicals, fees and a conditional AI outlook.
+The crypto report includes its 20 chapters, 11 chart images and tables. Its earlier standalone reading link remains available on the [`crypto-report-reading-copy` branch](https://github.com/arpit-sidana/investments/blob/crypto-report-reading-copy/CRYPTO_REPORT.md).
 
-Prelaunch results use explicitly identified proxies. The stock-removal model is an assumption sensitivity, not historical attribution. The 1,200-stock model holds the technology factor fixed; it does not backtest 1,200 actual stocks. Historical resampling shares are not forecast probabilities. Figures and conclusions do not update automatically.
+The ETF report covers inception and historical start dates, current-weight TSMC/ASML removal, a synthetic stock-count comparison, historical resampling, fundamentals, fees and a conditional AI outlook. [Methods](etf-research/outputs/METHODS.md) · [Calculation notebook](etf-research/outputs/etf-comparison.ipynb) · [Outputs](etf-research/outputs).
 
-## How this stays available
+## Standing delivery preference
 
-GitHub Pages serves the already-built files in `docs/` from the `main` branch. It needs no running computer, backend, API key, build service or paid market-data subscription. Git stores the report, authoring source, derived results and the numerical source snapshots needed by the calculations. Full provider articles, web pages and PDFs are linked rather than republished.
+For completed investment analyses and material revisions in this workspace:
 
-The Markdown report remains readable on GitHub even if Pages is disabled. The offline HTML contains the same reviewed data and application in one file. Keep a local clone and a separate backup for independence from GitHub. GitHub Pages is durable hosting, not a promise of permanent availability; deleting or renaming the repository/account, disabling Pages or a provider policy change can affect its URL.
+1. Write a complete, dated `.md` reading copy with sources, assumptions, tables and required visual assets.
+2. Commit and push the report and relevant reproducible files to this established repository, excluding secrets, personal account records, dependencies, caches and generated build output.
+3. Update this index and verify the saved GitHub document.
+4. Return the GitHub document link for reading on a phone.
 
-Published presentation edits in this static report are browser-local; they do not commit research changes to GitHub. To make a shared update, revise the source and evidence, build, verify, commit and push a new version. Preserve dated report URLs when adding later reports.
+Do not start localhost previews, make a web app the default report, or deploy GitHub Pages/ChatGPT Sites unless explicitly requested. These rules are saved in [AGENTS.md](AGENTS.md) and the [investment delivery skill](.agents/skills/investment-github-reading-copy/SKILL.md).
 
-## Reproduce and maintain
+This checkout uses `codex/investment-reading-copies`, a document branch. The existing Pages site uses `main:/docs`; this report workflow does not modify its source or deployment settings. Earlier browser reports and source projects are retained as archives. The Markdown reading copies remain usable without running an app or server.
 
-For numerical calculations, use Python 3.12+ and `etf-research/requirements.txt`. From `etf-research`, run `python analyze.py`, then `python supplement.py`. These read the committed numerical snapshots; no market-data refresh is required. `python package_analysis.py` recreates the executed notebook. Use a virtual environment; the local `vendor/` dependency cache is excluded from Git.
+## Reproduce the AI report
 
-`python etf-research/build_report.py` packages the reviewed outputs into the report snapshot and Markdown companion without fetching data or simulating new results. The interactive authoring project is `reports/ixn-qqq-voo/`; its `AGENTS.md` documents the Data report runtime and build commands. The installed Data plugin is required to rebuild that app, but **reading or hosting the committed report requires no plugin**. A fresh clone can serve `docs/` unchanged with `python -m http.server --directory docs`.
+Run `node scripts/render-ai-equities-markdown.mjs` from the repository. It reads saved narrative, company/scenario inputs and the portfolio snapshot, checks completeness and scenario arithmetic, and writes the Markdown report. It does not refresh quotes or publish anything by itself.
 
-After a verified report build and offline export, run `python scripts/package_pages.py`. It copies the verified bundle and offline HTML into `docs/`, checks content hashes and writes a release manifest. Commit and push the resulting files. Pages automatically deploys changes from `main:/docs`.
+- [Narrative input](research-reports/ai-equities-2027-2026-10-22/narrative.json)
+- [Company/scenario model](ai-equities-model.json)
+- [Portfolio and evidence snapshot](ai-equities-snapshot.json)
+- [Research source index](ai-equities-source-index.md)
+- [Original validation notes](ai-equities-validation.json)
 
-Research judgments are general analysis, without a personal tax or portfolio assessment. Source providers retain rights in their materials.
+The earlier `assemble-ai-equities-report.mjs` and authored report content/data are retained as legacy sources. Generated app framework files and build output are excluded from version control. Use the Markdown renderer for routine updates.
+
+## Other archived research
+
+The September 16 Glean research is preserved in [its snapshot](glean-investment-snapshot.json) and [original narrative source](glean-investment-report/src/content/report/ReportContent.jsx). It has not been refreshed as part of the October AI-report conversion.
+
+For ETF calculations, use Python 3.12+ and `etf-research/requirements.txt`. From `etf-research`, run `python analyze.py`, then `python supplement.py`; `python package_analysis.py` recreates the notebook. These read committed numerical snapshots. [Source retrieval log](etf-research/sources/fetch_log.json).
+
+Source providers retain rights in their materials. Published research does not contain personal brokerage/account records. Scenario probabilities and investment judgments are estimates, with limitations stated in each report.

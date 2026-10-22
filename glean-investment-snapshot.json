@@ -1,0 +1,216 @@
+{
+  "title": "Glean’s growth is exceptional; the entry price still decides the outcome",
+  "generatedAt": "2026-09-16T22:00:00-04:00",
+  "status": "reviewed",
+  "report": {
+    "asOf": "2026-09-16"
+  },
+  "filters": [],
+  "queries": {
+    "arr_milestones": {
+      "reportingField": "date",
+      "rows": [
+        {"date":"2025-02-05","arrMillions":100,"monthsSinceFirst":0,"sourceType":"Company-reported"},
+        {"date":"2025-12-08","arrMillions":200,"monthsSinceFirst":10,"sourceType":"Company-reported"},
+        {"date":"2026-05-28","arrMillions":300,"monthsSinceFirst":15,"sourceType":"Company-reported"}
+      ],
+      "source": {
+        "label": "Glean press releases: ARR milestones",
+        "tables": [
+          {"name":"Glean — $100M ARR (Feb. 5, 2025)","href":"https://www.glean.com/press/glean-achieves-100m-arr-in-three-years-delivering-true-ai-roi-to-the-enterprise"},
+          {"name":"Glean — $200M ARR (Dec. 8, 2025)","href":"https://www.glean.com/press/glean-surpasses-200m-in-arr-for-enterprise-ai-doubling-revenue-in-nine-months"},
+          {"name":"Glean — $300M ARR (May 28, 2026)","href":"https://www.glean.com/press/glean-surpasses-300m-arr-unrivaled-enterprise-context-fuels-ai-adoption"}
+        ],
+        "filters": ["Company-announced ARR milestones through May 28, 2026"],
+        "assumptions": ["ARR is company-reported and unaudited; no GAAP revenue, gross margin, burn, or retention disclosure is available."],
+        "metricDefinitions": [
+          {"label":"ARR","field":"arrMillions","definition":"Company-reported annual recurring revenue in USD millions; not audited revenue.","componentIds":["arr-growth","investment-summary","business-quality"]}
+        ]
+      }
+    },
+    "market_marks": {
+      "reportingField": "date",
+      "rows": [
+        {"date":"2024-09-10","venue":"Series E primary","price":33.22,"impliedValuationBillions":4.6,"arrMultiple":null,"signal":"financing"},
+        {"date":"2025-06-10","venue":"Series F primary","price":49.02,"impliedValuationBillions":7.2,"arrMultiple":null,"signal":"financing"},
+        {"date":"2025-12-31","venue":"Forge peak (approx.)","price":61.00,"impliedValuationBillions":8.96,"arrMultiple":44.8,"signal":"derived mark"},
+        {"date":"2026-09-02","venue":"Nasdaq Private Market mark","price":50.77,"impliedValuationBillions":7.46,"arrMultiple":24.9,"signal":"provider estimate"},
+        {"date":"2026-09-16","venue":"Forge Price","price":38.10,"impliedValuationBillions":5.60,"arrMultiple":18.7,"signal":"provider estimate"}
+      ],
+      "source": {
+        "label": "Forge and Nasdaq Private Market pricing signals",
+        "tables": [
+          {"name":"Forge — Glean stock and funding history","href":"https://forgeglobal.com/glean_stock/"},
+          {"name":"Nasdaq Private Market — Glean stock","href":"https://www.nasdaqprivatemarket.com/company/glean/"},
+          {"name":"Forge — How to invest in Glean","href":"https://forgeglobal.com/insights/how-to-invest-in-glean-stock-pre-ipo/"}
+        ],
+        "filters": ["Publicly visible provider marks and financing data available on Sep. 16, 2026"],
+        "assumptions": [
+          "Implied fully diluted shares are estimated as $7.2B divided by the $49.02 Series F price, or 146.9M shares.",
+          "The approximate late-2025 peak is reported by Forge; the exact date is not public.",
+          "NPM and Forge marks can reflect different methodologies, security classes, transaction structures, and update timing; they are not executable quotes.",
+          "ARR multiples use $300M company-reported ARR for current marks and $200M for the approximate Dec. 2025 peak."
+        ],
+        "metricDefinitions": [
+          {"label":"Provider price","field":"price","definition":"A primary-round price or a marketplace-derived estimate, not a continuously tradable public quote.","componentIds":["secondary-prices","entry-table","investment-summary"]},
+          {"label":"Implied valuation","field":"impliedValuationBillions","definition":"Price multiplied by the estimated 146.9M fully diluted share count; may not reflect security-specific preferences or SPV fees.","componentIds":["entry-table","valuation-scenarios"]}
+        ]
+      }
+    },
+    "funding_rounds": {
+      "rows": [
+        {"round":"Series A","date":"2019-06-30","amountMillions":15.3,"price":0.58,"postMoneyMillions":43.71,"newMoneyPct":35.00},
+        {"round":"Series B","date":"2021-09-15","amountMillions":40.0,"price":3.65,"postMoneyMillions":302.56,"newMoneyPct":13.22},
+        {"round":"Series C","date":"2022-05-18","amountMillions":101.0,"price":9.67,"postMoneyMillions":1000.0,"newMoneyPct":10.10},
+        {"round":"Series D","date":"2024-02-27","amountMillions":203.2,"price":17.63,"postMoneyMillions":2200.0,"newMoneyPct":9.24},
+        {"round":"Series E","date":"2024-09-10","amountMillions":265.0,"price":33.22,"postMoneyMillions":4600.0,"newMoneyPct":5.76},
+        {"round":"Series F","date":"2025-06-10","amountMillions":150.0,"price":49.02,"postMoneyMillions":7200.0,"newMoneyPct":2.08}
+      ],
+      "source": {
+        "label": "Forge funding history, cross-checked to Glean announcements",
+        "tables": [
+          {"name":"Forge — Glean funding history","href":"https://forgeglobal.com/glean_stock/"},
+          {"name":"Glean — Series D announcement","href":"https://www.glean.com/press/glean-announces-over-200m-series-d-to-accelerate-secure-deployment-of-generative-ai-in-the-enterprise"},
+          {"name":"Glean — Series E announcement","href":"https://www.glean.com/blog/glean-series-e-prompting-launch"},
+          {"name":"Glean — Series F announcement","href":"https://www.glean.com/press/glean-raises-150m-series-f-at-7-2b-valuation-to-accelerate-enterprise-ai-agent-innovation-globally"}
+        ],
+        "filters": ["Priced primary rounds disclosed publicly through Jun. 10, 2025"],
+        "assumptions": ["Round-level preferred share counts shown by Forge are authorization/issuance fields, not total fully diluted shares and are not summed."],
+        "metricDefinitions": [
+          {"label":"New-money ownership","field":"newMoneyPct","definition":"Amount raised divided by reported post-money valuation; excludes option-pool refreshes, secondaries, and other securities.","componentIds":["funding-table","cap-table"]}
+        ]
+      }
+    },
+    "cap_table_estimate": {
+      "rows": [
+        {"cohort":"Founders, employees & seed residual","estimatedPct":42.47,"confidence":"Low"},
+        {"cohort":"Series A cohort","estimatedPct":22.87,"confidence":"Low"},
+        {"cohort":"Series B cohort","estimatedPct":9.95,"confidence":"Low"},
+        {"cohort":"Series C cohort","estimatedPct":8.46,"confidence":"Low"},
+        {"cohort":"Series D cohort","estimatedPct":8.52,"confidence":"Low"},
+        {"cohort":"Series E cohort","estimatedPct":5.64,"confidence":"Low"},
+        {"cohort":"Series F cohort","estimatedPct":2.08,"confidence":"Low"}
+      ],
+      "source": {
+        "label": "Modeled cap-table cohorts from disclosed financings",
+        "tables": [{"name":"Forge — Glean funding history","href":"https://forgeglobal.com/glean_stock/"}],
+        "filters": ["Sequential dilution model using six priced rounds"],
+        "assumptions": [
+          "Each round's new ownership equals amount raised divided by post-money valuation.",
+          "Earlier cohorts are diluted pro rata by later rounds.",
+          "The residual combines founders, employees, seed holders, option pools, and any undisclosed pre-Series A holders.",
+          "This is not Glean's legal cap table and cannot identify individual ownership. Option-pool refreshes, tender sales, transfers, SAFEs, and debt can materially change it."
+        ],
+        "metricDefinitions": [
+          {"label":"Estimated cohort ownership","field":"estimatedPct","definition":"Mechanical pro-rata dilution estimate from public financing amounts and post-money valuations.","componentIds":["cap-table","cap-table-note"]}
+        ]
+      }
+    },
+    "valuation_scenarios": {
+      "rows": [
+        {"case":"Bear","probability":0.35,"arrCagr":0.25,"year3ArrMillions":585.94,"exitArrMultiple":8,"grossEquityBillions":4.69,"netEquityBillions":3.98,"dilution":0.15,"returnMultipleAt3810":0.68,"irrAt3810":-0.121,"impliedSharePrice":25.84},
+        {"case":"Base","probability":0.50,"arrCagr":0.45,"year3ArrMillions":914.59,"exitArrMultiple":14,"grossEquityBillions":12.80,"netEquityBillions":11.27,"dilution":0.12,"returnMultipleAt3810":1.92,"irrAt3810":0.242,"impliedSharePrice":73.06},
+        {"case":"Bull","probability":0.15,"arrCagr":0.65,"year3ArrMillions":1347.64,"exitArrMultiple":20,"grossEquityBillions":26.95,"netEquityBillions":24.26,"dilution":0.10,"returnMultipleAt3810":4.13,"irrAt3810":0.604,"impliedSharePrice":157.29}
+      ],
+      "source": {
+        "label": "Scenario model authored from reviewed ARR and market marks",
+        "tables": [
+          {"name":"Glean — $300M ARR milestone","href":"https://www.glean.com/press/glean-surpasses-300m-arr-unrivaled-enterprise-context-fuels-ai-adoption"},
+          {"name":"Forge — $38.10 price / $5.6B valuation","href":"https://forgeglobal.com/glean_stock/"}
+        ],
+        "filters": ["Three-year horizon ending Sep. 2029", "Entry at $38.10 plus assumed 5% transaction fee"],
+        "assumptions": [
+          "Scenario probabilities are subjective, not frequencies or guarantees.",
+          "Equity value is ARR times an exit multiple, then reduced for modeled future dilution; net debt is assumed immaterial because cash and debt are undisclosed.",
+          "Return multiples include a 5% entry transaction fee but exclude taxes, legal/transfer fees, SPV expenses, carry, lockups, and exit costs.",
+          "No liquidity by the horizon would reduce realized IRR even if the mark is correct."
+        ],
+        "metricDefinitions": [
+          {"label":"Three-year IRR","field":"irrAt3810","definition":"Annualized return from a $38.10 reference price plus 5% entry fee to modeled diluted equity value after three years.","componentIds":["scenario-chart","scenario-table","investment-summary"]}
+        ]
+      }
+    },
+    "entry_sensitivity": {
+      "rows": [
+        {"entryPrice":38.10,"reference":"Forge mark","bearIrr":-0.121,"baseIrr":0.242,"bullIrr":0.604},
+        {"entryPrice":45.00,"reference":"Upper buy limit","bearIrr":-0.169,"baseIrr":0.175,"bullIrr":0.518},
+        {"entryPrice":49.02,"reference":"Series F price","bearIrr":-0.192,"baseIrr":0.142,"bullIrr":0.475},
+        {"entryPrice":50.77,"reference":"NPM mark","bearIrr":-0.202,"baseIrr":0.129,"bullIrr":0.458}
+      ],
+      "source": {
+        "label": "Entry-price sensitivity derived from the scenario model",
+        "tables": [
+          {"name":"Forge — Glean stock","href":"https://forgeglobal.com/glean_stock/"},
+          {"name":"Nasdaq Private Market — Glean stock","href":"https://www.nasdaqprivatemarket.com/company/glean/"}
+        ],
+        "filters": ["Same Sep. 2029 scenario outcomes; 5% entry fee"],
+        "assumptions": ["Entry prices are references, not confirmed executable offers."],
+        "metricDefinitions": [
+          {"label":"Base-case IRR","field":"baseIrr","definition":"Annualized return under the base operating and exit assumptions at each entry price.","componentIds":["entry-sensitivity"]}
+        ]
+      }
+    },
+    "platforms": {
+      "rows": [
+        {"platform":"Hiive","gleanEvidence":"Hiive50; trading since Jul. 2024; dedicated May 2026 liquidity report","standardMinimum":"$25k","structure":"Direct shares and funds","publishedFees":"Buyer fee up to 5%; transaction-dependent","fit":"Best first venue for a satellite position"},
+        {"platform":"Nasdaq Private Market / SecondMarket","gleanEvidence":"Public Glean mark; direct-share and fund access for accredited individuals","standardMinimum":"Not publicly standardized","structure":"Direct shares and NPM funds","publishedFees":"Deal-specific","fit":"Best institutional cross-check"},
+        {"platform":"Forge","gleanEvidence":"Public Glean mark, round terms and visible market activity","standardMinimum":"$100k direct; some funds from $5k","structure":"Direct shares and funds","publishedFees":"Commission disclosed per deal; some funds 1–2%","fit":"Best public data cross-check; direct minimum is large"},
+        {"platform":"EquityZen","gleanEvidence":"Availability not verified publicly","standardMinimum":"Usually $10k; some $5k","structure":"Primarily fund/SPV interests; some direct","publishedFees":"Typically 2.5% sales fee; standard funds usually no carry/management fee","fit":"Best smaller-check fallback if a Glean offering opens"}
+      ],
+      "source": {
+        "label": "Official marketplace eligibility, fee, and minimum disclosures",
+        "tables": [
+          {"name":"Hiive — Glean liquidity thesis","href":"https://www.hiive.com/market-reports/the-liquidity-thesis-glean"},
+          {"name":"Hiive — investor status and $25k minimum","href":"https://www.hiive.com/guides/determining-if-you-are-an-accredited-investor-or-qualified-purchaser"},
+          {"name":"Hiive — Regulation BI disclosure","href":"https://www.hiive.com/Regulation_BI_Disclosure_Statement_July_2024.pdf"},
+          {"name":"Nasdaq Private Market — individual accredited investors","href":"https://www.nasdaqprivatemarket.com/use-cases/individual-accredited-investors/"},
+          {"name":"Forge — investor FAQ","href":"https://forgeglobal.com/faqs/"},
+          {"name":"EquityZen — how to invest","href":"https://help.equityzen.com/en/articles/2663417-how-do-i-invest-on-equityzen"}
+        ],
+        "filters": ["Public disclosures available Sep. 16, 2026"],
+        "assumptions": ["Actual minimums, fees, share classes, and eligibility vary by specific offering and jurisdiction."],
+        "metricDefinitions": []
+      }
+    },
+    "social_signals": {
+      "rows": [
+        {"date":"2026-09-16","source":"@glean on X","signal":"Salesforce AgentExchange integration","detail":"Glean announced an MCP server that brings permissioned enterprise context into Agentforce for meeting prep, follow-ups, deal-risk identification, and next-step recommendations.","confidence":"High"},
+        {"date":"2026-09-16","source":"Live X replies","signal":"Enterprise context seen as agent differentiator","detail":"Recent replies emphasized permissions, provenance, and evaluation signals as the difficult infrastructure layer. Engagement was low, so this is qualitative rather than representative sentiment.","confidence":"Low"},
+        {"date":"2026-09-16","source":"USDM Life Sciences on X","signal":"Regulated-industry workflow example","detail":"A conference session advertised a TMF intake pipeline built on Glean, a useful but vendor-selected adoption signal in life sciences.","confidence":"Medium"},
+        {"date":"2026-09-16","source":"Authenticated X search sample","signal":"Noise remains high","detail":"A bounded Latest search produced many false positives for the ordinary verb 'glean'; the useful company-specific sample was small and skewed toward Glean, partners, and event promotion.","confidence":"High"}
+      ],
+      "source": {
+        "label": "Authenticated Safari sample from X Latest search",
+        "tables": [
+          {"name":"Glean — AgentExchange post","href":"https://x.com/glean/status/2100354495222091847"},
+          {"name":"Hunter Guo — enterprise-context reply","href":"https://x.com/hunterguo101/status/2100362384204263490"},
+          {"name":"USDM Life Sciences — workflow post","href":"https://x.com/USDMLifeScience/status/2100256660644147291"}
+        ],
+        "filters": ["Live X query: exact Glean plus enterprise, ARR, or search; sampled visible Latest results on Sep. 16, 2026"],
+        "assumptions": ["This is a bounded, authenticated sample, not a complete scrape of X.","Posts and replies are unverified qualitative evidence and may be promotional, selective, or unrepresentative."],
+        "metricDefinitions": []
+      }
+    },
+    "exit_probabilities": {
+      "rows": [
+        {"outcome":"IPO by Sep. 2029","probabilityPct":45,"rationale":"ARR scale is IPO-capable, but no public filing or announced timetable."},
+        {"outcome":"Acquisition by Sep. 2029","probabilityPct":15,"rationale":"Strategic fit exists, but a likely $8B+ price narrows the buyer set and creates overlap/antitrust issues."},
+        {"outcome":"Still private","probabilityPct":35,"rationale":"Deep private funding and management preference for private-market flexibility can extend the runway."},
+        {"outcome":"Recap or distress","probabilityPct":5,"rationale":"Low probability but non-zero due to AI cost, competition, and limited disclosure."}
+      ],
+      "source": {
+        "label": "Subjective exit-timing assessment from public evidence",
+        "tables": [
+          {"name":"Axios — CEO said Glean was far from an IPO (Dec. 2024)","href":"https://www.axios.com/2024/12/19/axios-event-ai-investment-glean-ceo"},
+          {"name":"TechCrunch — founder hopes Glean eventually goes public","href":"https://techcrunch.com/podcast/arvind-jain-created-ai-that-actually-makes-your-job-easier/"},
+          {"name":"ServiceNow — Moveworks acquisition completed","href":"https://newsroom.servicenow.com/press-releases/details/2025/ServiceNow-completes-acquisition-of-Moveworks/default.aspx"}
+        ],
+        "filters": ["Outcome by Sep. 2029"],
+        "assumptions": ["Probabilities are analyst judgment, sum to 100%, and are not derived from a statistical base-rate model."],
+        "metricDefinitions": [
+          {"label":"Outcome probability","field":"probabilityPct","definition":"Subjective probability of mutually exclusive status by Sep. 2029.","componentIds":["exit-probabilities"]}
+        ]
+      }
+    }
+  }
+}

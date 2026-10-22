@@ -1,0 +1,15 @@
+{
+  "arithmetic": "passed",
+  "unique_equities": 25,
+  "scenario_prices": 75,
+  "base_bridges": 25,
+  "portfolio_weights": "100% including cash",
+  "browser_visual_check": "Blocked by browser URL security policy; no alternate browser or headless workaround attempted.",
+  "limitations": [
+    "Subjective, uncalibrated probabilities",
+    "Incomplete exhaustive global coverage",
+    "Operating bears exclude explicit disaster tails",
+    "Mixed normalized/adjusted earnings bases",
+    "No modeled joint return distribution"
+  ]
+}
