@@ -1,4 +1,6 @@
 .DS_Store
+# Personal brokerage records and individualized tax analyses stay local.
+/private-research/
 # Investment research delivery: commit reports and source, not generated app output.
 **/dist/
 **/.openai/

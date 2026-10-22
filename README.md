@@ -6,6 +6,7 @@ Dated investment research, readable directly in GitHub on a phone. **Markdown is
 
 | Research | Date | Reading copy |
 | --- | --- | --- |
+| Employee-stock liquidation: tax-lot reconciliation and wash-sale review method; no personal account data | October 22, 2026 | [General method](research-reports/employee-stock-tax-lot-method-2026-10-22/REPORT.md) |
 | AI equities through end-2027: 25 companies, K-shaped economy, agents, infrastructure and a $100k scenario portfolio | October 22, 2026; October 16 entry prices | [Full report](research-reports/ai-equities-2027-2026-10-22/REPORT.md) |
 | Crypto State of the Union: applications, protocols, economics and risks | October 19, 2026 | [Full report](CRYPTO_REPORT.md) |
 | IXN vs QQQ vs VOO: performance, risk, diversification and AI outlook | October 19, 2026 | [Full report](reports/ixn-qqq-voo/REPORT.md) |
