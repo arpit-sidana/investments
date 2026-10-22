@@ -46,6 +46,10 @@ A monthly plan can sometimes permit a clean window by skipping just one purchase
 
 Compare the incremental current-year tax benefit of a pause with the net employer match actually forgone. Some losses may already be deductible without a pause, and taxable-account wash adjustments generally defer losses into replacement basis. Do not value a pause as if every dollar of the total loss deduction depended on it. Confirm whether skipped contributions can be made up later with matching, and whether already-withheld payroll funds would still buy shares.
 
+For a plan with an annual employee contribution cap C, potential annual contributions P and skipped deductions S, a simplified annual gross-match cost is `match rate × [min(C, P) − min(C, P − S)]`. This can be smaller than matching on the skipped month's deductions because later contributions use capacity that would otherwise be capped. The formula assumes later permitted contributions are actually made and receive matching; election cutoffs and processing rules still need verification. Use reconstructed contributions from actual purchase records when available, and keep a constant-salary projection separate if it does not reconcile to those records.
+
+If dividend reinvestment is assumed enabled, skipping one payroll purchase alone is insufficient to establish a clean window. Confirm cash dividend elections take effect before any reinvestment during the restricted interval. Quarterly frequency does not establish the next acquisition date, and the ex-dividend or record date is not automatically the reinvestment purchase date. An unverified account setting must remain labeled as an assumption.
+
 ## Model partial disallowance rather than assuming all or nothing
 
 When replacement shares are fewer than sold loss shares, only matched losses may be deferred. Different lots can have different losses per share. The regulation applies losses in disposition order; when same-day disposition order cannot be determined, it uses acquisition chronology. Acquisition matching and already-used replacement shares also matter. [26 CFR §1.1091-1](https://www.law.cornell.edu/cfr/text/26/1.1091-1).
