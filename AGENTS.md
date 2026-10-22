@@ -10,3 +10,7 @@ These instructions apply to this folder and every descendant. The user confirmed
 - Maintain the repository's `README.md` report index so reports remain easy to find on a phone. Keep dated editions when creating a new report; update the same report path for revisions to that edition.
 
 Read and apply [.agents/skills/investment-github-reading-copy/SKILL.md](.agents/skills/investment-github-reading-copy/SKILL.md) when creating or delivering investment research. This rule is scoped to this investment workspace, not unrelated projects. Another checkout named `Investments 2` uses the same GitHub repository; do not assume its local instructions automatically apply here or modify that checkout as a side effect.
+
+## Private investment context
+
+For personal portfolio and tax-lot analysis in this workspace, read `private-research/INVESTMENT_CONTEXT.md` when available. It is the central local context for user-confirmed account rules and dated reconciliations. Check its as-of dates before reuse. The entire `private-research/` directory is excluded from Git; do not publish its contents or referenced personal records.
